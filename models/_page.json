@@ -21,6 +21,30 @@
           "name": "keywords",
           "multi": true,
           "label": "Keywords"
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Image"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "author",
+          "label": "Author"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "publicationDate",
+          "label": "Publication Date"
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "lastModified",
+          "label": "Last Modified"
         }
       ]
     }
