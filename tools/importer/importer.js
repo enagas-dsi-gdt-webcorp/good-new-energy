@@ -78,23 +78,32 @@ function addCards(main, document, items) {
 function addSlides(main, document) {
   const slides = [...document.querySelectorAll('.n2-ss-slide[data-slide-public-id]')];
   if (!slides.length) return;
+  const colors = {
+    sostenibles: '#9cb700',
+    sustainable: '#9cb700',
+    innovadores: '#ffb81c',
+    innovative: '#ffb81c',
+    comprometidos: '#00b5e2',
+    committed: '#00b5e2',
+    proactivos: '#007aae',
+    proactive: '#007aae',
+  };
   const rows = slides.map((slide) => {
     const id = slide.getAttribute('data-slide-public-id');
     const image = document.querySelector(`.n2-ss-slide-background[data-public-id="${id}"] img`);
     const heading = slide.querySelector('h2, h3');
     const href = slide.getAttribute('data-href');
     if (!heading || !href) throw new Error(`Slider item ${id} is missing a title or link.`);
-    const text = document.createElement('div');
     const link = document.createElement('a');
     link.href = href;
     link.textContent = heading.textContent.trim();
-    heading.replaceChildren(link);
-    text.append(heading);
+    const title = document.createElement('p');
+    title.append(link);
     const description = slide.querySelector('.n2-ss-item-content p');
-    if (description) text.append(description);
-    return [image || '', text];
+    const category = new URL(href, 'https://goodnewenergy.enagas.es').pathname.split('/').filter(Boolean).pop();
+    return [image || '', title, description?.textContent.trim() || '', colors[category] || ''];
   });
-  main.append(WebImporter.DOMUtils.createTable([['Cards'], ...rows], document));
+  main.append(WebImporter.DOMUtils.createTable([['Slider'], ['5'], ['0.8'], ...rows], document));
   main.append(document.createElement('hr'));
 }
 

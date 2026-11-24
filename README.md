@@ -35,8 +35,7 @@ npm run lint
 El importador de `tools/importer/importer.js` transforma artículos, páginas con
 contenido y listados del sitio de WordPress. `tools/importer/import.js` es el
 punto de entrada que carga automáticamente el importador de AEM. Reutiliza los
-bloques Hero y Cards existentes; los carruseles se importan como tarjetas
-estáticas y los vídeos incrustados como enlaces.
+bloques Hero, Cards y Slider; los vídeos incrustados se importan como enlaces.
 
 1. Ejecuta `aem import --no-open` y abre
    `http://localhost:3001/tools/importer/helix-importer-ui/index.html`.
@@ -60,3 +59,17 @@ implementan paginación ni actualización automática. Las búsquedas, formulari
 comentarios y funcionalidades de WordPress necesitan una implementación aparte.
 Revisa los metadatos disponibles en AEM, los idiomas, los enlaces y los formatos
 especiales antes de publicar; las estructuras no reconocidas generan un error.
+
+## Slider
+
+En Universal Editor, añade un bloque Slider y tantos elementos Slide como
+necesites. Configura en el bloque el tiempo entre slides y la duración de la
+transición en segundos (por defecto, 5 y 0,8). Cada slide admite imagen y texto
+alternativo, título enriquecido, subtítulo y color hexadecimal para el subrayado.
+Puedes añadir un enlace al título desde el editor de texto enriquecido. El carrusel
+se pausa al recibir el foco o al pasar el
+ratón; también dispone de un control para pausar o reanudar la reproducción.
+Con movimiento reducido, no se reproduce automáticamente.
+
+Las portadas importadas después de este cambio utilizan el bloque Slider; las
+ya importadas deben volver a importarse o actualizarse manualmente en AEM.

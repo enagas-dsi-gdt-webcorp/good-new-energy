@@ -244,5 +244,61 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "slider",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "interval",
+        "label": "Tiempo entre slides (segundos)",
+        "value": 5
+      },
+      {
+        "component": "text",
+        "valueType": "number",
+        "name": "transition",
+        "label": "Duración de la transición (segundos)",
+        "value": 0.8
+      }
+    ]
+  },
+  {
+    "id": "slide",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Imagen"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Texto alternativo"
+      },
+      {
+        "component": "richtext",
+        "valueType": "string",
+        "name": "title",
+        "label": "Título",
+        "description": "Puedes añadir un enlace al título."
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "subtitle",
+        "label": "Subtítulo"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "color",
+        "label": "Color del subrayado",
+        "description": "Color hexadecimal, por ejemplo #00b5e2."
+      }
+    ]
   }
 ]

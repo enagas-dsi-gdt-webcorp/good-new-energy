@@ -10,7 +10,14 @@ export default function decorate(block) {
     while (row.firstElementChild) li.append(row.firstElementChild);
     [...li.children].forEach((div) => {
       if (div.children.length === 1 && div.querySelector('picture')) div.className = 'cards-card-image';
-      else div.className = 'cards-card-body';
+      else {
+        div.className = 'cards-card-body';
+        const paragraphs = div.querySelectorAll('p');
+        paragraphs[0]?.classList.add('categoria');
+        const categoryTitle = paragraphs[0]?.querySelector('a')?.getAttribute('title')?.trim().toLowerCase();
+        if (categoryTitle) li.classList.add(categoryTitle.replace(/\s+/g, '-'));
+        paragraphs[1]?.classList.add('copete');
+      }
     });
     ul.append(li);
   });

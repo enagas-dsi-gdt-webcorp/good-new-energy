@@ -18,12 +18,16 @@
         "Roboto-Mono", menlo, consolas, "Liberation Mono", monospace;
 
     /* colors */
-    --text-color: #000;
-    --link-color: #00e;
+    --text-color: #63666a;
+    --link-color: #000;
     --link-hover-color: invalid input color;
     --background-color: #fff;
     --overlay-background-color: #eee;
     --highlight-background-color: #ccc;
+    --sostenibles-color: #9cb700;
+    --innovadores-color: #ffb81c;
+    --comprometidos-color: #00b5e2;
+    --proactivos-color: #007aae;
 
     /* sizes */
     --heading-font-size-xxl: 60px;
@@ -60,11 +64,11 @@
         /* body sizes */
         --body-font-size-m: 18px;
         --body-font-size-s: 16px;
-        --body-font-size-xs: 14px;
+        --body-font-size-xs: 12px;
 
         /* heading sizes */
         --heading-font-size-xxl: 45px;
-        --heading-font-size-xl: 36px;
+        --heading-font-size-xl: 30px;
         --heading-font-size-l: 28px;
         --heading-font-size-m: 22px;
         --heading-font-size-s: 20px;
@@ -106,8 +110,7 @@ h3,
 h4,
 h5,
 h6 {
-    margin-top: 0.8em;
-    margin-bottom: 0.25em;
+    margin: 0;
     font-family: var(--heading-font-family);
     font-weight: 600;
     line-height: 1.25;
@@ -120,6 +123,7 @@ h1 {
 
 h2 {
     font-size: var(--heading-font-size-xl);
+    color: var(--text-color);
 }
 
 h3 {
@@ -146,6 +150,7 @@ pre,
 blockquote {
     margin-top: 0.8em;
     margin-bottom: 0.25em;
+    color: var(--text-color);
 }
 
 code,
@@ -174,14 +179,13 @@ button {
 
 /* links */
 a:any-link {
-    color: var(--link-color);
+    color: var(--text-color);
     text-decoration: none;
     overflow-wrap: break-word;
 }
 
 a:hover {
     color: var(--link-hover-color);
-    text-decoration: underline;
 }
 
 /* buttons */
@@ -327,6 +331,38 @@ main > .section > div {
 
 main > .section:first-of-type {
     margin-top: 0;
+}
+
+#sostenibles,
+#sostenibles a,
+a[title="sostenibles"] {
+  font-family: "verdana";
+  font-weight: 700;
+  color: var(--sostenibles-color);
+}
+
+#innovadores,
+#innovadores a,
+a[title="innovadores"] {
+  font-family: "verdana";
+  font-weight: 700;
+  color: var(--innovadores-color);
+}
+
+#proactivos,
+#proactivos a,
+a[title="proactivos"] {
+  font-family: "verdana";
+  font-weight: 700;
+  color: var(--proactivos-color);
+}
+
+#comprometidos,
+#comprometidos a,
+a[title="comprometidos"] {
+  font-family: "verdana";
+  font-weight: 700;
+  color: var(--comprometidos-color);
 }
 
 @media (width >= 900px) {
