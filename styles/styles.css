@@ -12,10 +12,10 @@
 
 :root {
     /* fonts */
-    --heading-font-family: ptserif-bold;
-    --body-font-family: verdana-regular;
+    --heading-font-family: "ptserif-bold";
+    --body-font-family: "verdana";
     --fixed-font-family:
-        "Roboto Mono", menlo, consolas, "Liberation Mono", monospace;
+        "Roboto-Mono", menlo, consolas, "Liberation Mono", monospace;
 
     /* colors */
     --text-color: #000;
