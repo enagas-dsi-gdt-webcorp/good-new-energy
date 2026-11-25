@@ -131,10 +131,18 @@ export default async function decorate(block) {
   });
 
   const navBrand = nav.querySelector('.nav-brand');
-  const brandLink = navBrand.querySelector('.button');
+  const brandLink = navBrand?.querySelector('p a[href]');
+  const brandImage = navBrand?.querySelector('picture, img');
   if (brandLink) {
     brandLink.className = '';
-    brandLink.closest('.button-container').className = '';
+    brandLink.closest('.button-container, .button-wrapper')?.classList.remove('button-container', 'button-wrapper');
+    if (brandImage) {
+      const imageContainer = brandImage.parentElement;
+      brandLink.replaceChildren(brandImage);
+      if (imageContainer?.tagName === 'P' && !imageContainer.children.length && !imageContainer.textContent.trim()) {
+        imageContainer.remove();
+      }
+    }
   }
 
   const navSections = nav.querySelector('.nav-sections');
