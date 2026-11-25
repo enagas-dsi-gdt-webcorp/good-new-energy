@@ -20,76 +20,8 @@ footer .footer .columns img{
   width: 65px
 }
 
-footer .footer .footer-social-item {
-  display: inline-flex;
-}
-
-footer .footer .footer-social-link {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 44px;
-  min-height: 44px;
-}
-
-footer .footer .footer-social-label {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  overflow: hidden;
-  clip-path: inset(50%);
-  white-space: nowrap;
-}
-
-footer .footer .footer-social-icon {
-  display: inline-block;
+footer .footer .columns .social-links img {
   width: 24px;
-  height: 24px;
-  background-color: currentcolor;
-  mask-position: center;
-  mask-repeat: no-repeat;
-  mask-size: contain;
-}
-
-footer .footer .footer-social-icon-linkedin {
-  mask-image: url('../../icons/icomoon-linkedin.svg');
-}
-
-footer .footer .footer-social-icon-instagram {
-  mask-image: url('../../icons/icomoon-instagram.svg');
-}
-
-footer .footer .footer-social-icon-facebook {
-  mask-image: url('../../icons/icomoon-facebook.svg');
-}
-
-footer .footer .footer-social-icon-youtube {
-  mask-image: url('../../icons/icomoon-youtube.svg');
-}
-
-footer .footer .footer-social-icon-x {
-  background: none;
-}
-
-footer .footer .columns .footer-social-icon-x img {
-  display: block;
-  width: 24px;
-  height: 24px;
-  object-fit: contain;
-}
-
-@media (forced-colors: active) {
-  footer .footer .footer-social-icon {
-    display: none;
-  }
-
-  footer .footer .footer-social-label {
-    position: static;
-    width: auto;
-    height: auto;
-    clip-path: none;
-  }
 }
 
 @media (width >= 900px) {
@@ -98,18 +30,5 @@ footer .footer .columns .footer-social-icon-x img {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-  }
-
-  footer .footer .columns-container.social-links-container {
-    flex-flow: row wrap;
-  }
-
-  footer .footer .columns-container.social-links-container > .default-content-wrapper {
-    flex-basis: 100%;
-  }
-
-  footer .footer .columns-container.social-links-container > .columns-wrapper {
-    flex: 1;
-    min-width: 0;
   }
 }

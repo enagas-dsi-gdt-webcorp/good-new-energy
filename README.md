@@ -74,27 +74,10 @@ Con movimiento reducido, no se reproduce automáticamente.
 Las portadas importadas después de este cambio utilizan el bloque Slider; las
 ya importadas deben volver a importarse o actualizarse manualmente en AEM.
 
-## Redes sociales del footer
+## Redes sociales
 
-En Universal Editor, añade el bloque **Redes sociales** a la misma sección del
-fragmento del footer que el bloque Columns. Añade un **Enlace de red social** por
-cada red y selecciona su icono, URL y nombre accesible. Para X, selecciona
-**Imagen personalizada** y elige su imagen en AEM: IcoMoon Free no incluye el
-logotipo actual de X. En escritorio el bloque aparece junto a las columnas.
-
-Los enlaces anteriores siguen funcionando. Para evitar duplicados, elimina la
-columna antigua de redes después de configurar y comprobar el nuevo bloque.
-
-La fuente `fonts/icomoon-social.woff2` contiene 169 iconos
-de [IcoMoon Free, de Keyamoon](https://github.com/Keyamoon/IcoMoon-Free)
-(todas las marcas y redes sociales más una selección de iconos de uso común),
-bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Es una versión
-modificada de la fuente original: se ha creado un subconjunto de glifos y
-convertido a WOFF2 (unos 20 KB). La implementación anterior conserva también los SVG originales en
-`icons/icomoon-*.svg`.
-
-Para incorporar más iconos a la lista, importa `selection.json` de IcoMoon Free
-en la aplicación de IcoMoon, añade los iconos necesarios y exporta una fuente
-WOFF2. Mantén los códigos existentes y añade las opciones con sus códigos Unicode
-en `blocks/social-links/_social-links.json`; después ejecuta `npm run build:json`.
-Actualiza también la atribución y comprueba la licencia de cada icono añadido.
+El bloque **Redes sociales** muestra enlaces a redes sociales como iconos
+clicables. Puede añadirse en una sección o dentro de una celda del bloque
+Columns (por ejemplo, en el footer). Añade un **Enlace de red social** por cada
+red y elige su imagen en AEM, la URL y el nombre accesible (lo leen los lectores
+de pantalla). Los iconos se muestran a 24 px.
