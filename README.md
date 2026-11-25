@@ -113,8 +113,9 @@ clicables. Puede añadirse en una sección o dentro de una celda del bloque
 Columns (por ejemplo, en el footer). Añade un **Enlace de red social** por cada
 red y selecciona su icono, URL y nombre accesible. Los enlaces se abren en una
 pestaña nueva. El selector contiene los 127 iconos de `fonts/selection.json`,
-incluido `Twitter-1` para X; utiliza la fuente `fonts/icomoon.woff`. Las imágenes
-de enlaces existentes siguen funcionando hasta que se seleccione un icono.
+incluido `Twitter-1` para X; utiliza la fuente `fonts/icomoon.woff`. Para los
+enlaces creados anteriormente con imágenes, selecciona un icono y vuelve a
+previsualizar el contenido.
 
 Al actualizar la fuente con IcoMoon, conserva los códigos Unicode existentes,
 reemplaza el WOFF y `selection.json`, y actualiza las opciones del campo `icon`

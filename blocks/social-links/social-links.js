@@ -5,10 +5,9 @@ export function isIconGlyph(value) {
 
 export default function decorate(block) {
   [...block.children].forEach((row) => {
-    const picture = row.querySelector('picture, img');
     const iconValue = [...row.children].map((cell) => cell.textContent.trim()).find(isIconGlyph);
     const link = row.querySelector('a[href]');
-    if ((!iconValue && !picture) || !link || !['http:', 'https:'].includes(link.protocol)) {
+    if (!iconValue || !link || !['http:', 'https:'].includes(link.protocol)) {
       // eslint-disable-next-line no-console
       console.warn('Social Links: configura un icono y una URL HTTP(S).', row);
       return;
@@ -21,12 +20,7 @@ export default function decorate(block) {
     const icon = document.createElement('span');
     icon.className = 'social-links-icon';
     icon.setAttribute('aria-hidden', 'true');
-    if (iconValue) {
-      icon.classList.add('social-links-glyph');
-      icon.textContent = iconValue;
-    } else {
-      icon.append(picture);
-    }
+    icon.textContent = iconValue;
 
     link.textContent = '';
     link.removeAttribute('title');
