@@ -85,11 +85,12 @@ logotipo actual de X. En escritorio el bloque aparece junto a las columnas.
 Los enlaces anteriores siguen funcionando. Para evitar duplicados, elimina la
 columna antigua de redes después de configurar y comprobar el nuevo bloque.
 
-La fuente `fonts/icomoon-social.woff2` contiene únicamente los cuatro iconos
-seleccionables de [IcoMoon Free, de Keyamoon](https://github.com/Keyamoon/IcoMoon-Free),
+La fuente `fonts/icomoon-social.woff2` contiene 169 iconos
+de [IcoMoon Free, de Keyamoon](https://github.com/Keyamoon/IcoMoon-Free)
+(todas las marcas y redes sociales más una selección de iconos de uso común),
 bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Es una versión
-modificada de la fuente original: se han seleccionado cuatro glifos y convertido
-a WOFF2. La implementación anterior conserva también los SVG originales en
+modificada de la fuente original: se ha creado un subconjunto de glifos y
+convertido a WOFF2 (unos 20 KB). La implementación anterior conserva también los SVG originales en
 `icons/icomoon-*.svg`.
 
 Para incorporar más iconos a la lista, importa `selection.json` de IcoMoon Free

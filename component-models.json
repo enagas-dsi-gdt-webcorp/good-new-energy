@@ -328,6 +328,666 @@
             "value": ""
           },
           {
+            "name": "home",
+            "value": ""
+          },
+          {
+            "name": "office",
+            "value": ""
+          },
+          {
+            "name": "newspaper",
+            "value": ""
+          },
+          {
+            "name": "pencil",
+            "value": ""
+          },
+          {
+            "name": "image",
+            "value": ""
+          },
+          {
+            "name": "camera",
+            "value": ""
+          },
+          {
+            "name": "headphones",
+            "value": ""
+          },
+          {
+            "name": "play",
+            "value": ""
+          },
+          {
+            "name": "video-camera",
+            "value": ""
+          },
+          {
+            "name": "bullhorn",
+            "value": ""
+          },
+          {
+            "name": "book",
+            "value": ""
+          },
+          {
+            "name": "cart",
+            "value": ""
+          },
+          {
+            "name": "calculator",
+            "value": ""
+          },
+          {
+            "name": "phone",
+            "value": ""
+          },
+          {
+            "name": "envelop",
+            "value": ""
+          },
+          {
+            "name": "location",
+            "value": ""
+          },
+          {
+            "name": "clock",
+            "value": ""
+          },
+          {
+            "name": "bell",
+            "value": ""
+          },
+          {
+            "name": "calendar",
+            "value": ""
+          },
+          {
+            "name": "printer",
+            "value": ""
+          },
+          {
+            "name": "mobile",
+            "value": ""
+          },
+          {
+            "name": "download",
+            "value": ""
+          },
+          {
+            "name": "upload",
+            "value": ""
+          },
+          {
+            "name": "database",
+            "value": ""
+          },
+          {
+            "name": "bubble",
+            "value": ""
+          },
+          {
+            "name": "user",
+            "value": ""
+          },
+          {
+            "name": "users",
+            "value": ""
+          },
+          {
+            "name": "search",
+            "value": ""
+          },
+          {
+            "name": "key",
+            "value": ""
+          },
+          {
+            "name": "lock",
+            "value": ""
+          },
+          {
+            "name": "cog",
+            "value": ""
+          },
+          {
+            "name": "trophy",
+            "value": ""
+          },
+          {
+            "name": "gift",
+            "value": ""
+          },
+          {
+            "name": "leaf",
+            "value": ""
+          },
+          {
+            "name": "fire",
+            "value": ""
+          },
+          {
+            "name": "bin",
+            "value": ""
+          },
+          {
+            "name": "briefcase",
+            "value": ""
+          },
+          {
+            "name": "airplane",
+            "value": ""
+          },
+          {
+            "name": "truck",
+            "value": ""
+          },
+          {
+            "name": "tree",
+            "value": ""
+          },
+          {
+            "name": "menu",
+            "value": ""
+          },
+          {
+            "name": "cloud",
+            "value": ""
+          },
+          {
+            "name": "earth",
+            "value": ""
+          },
+          {
+            "name": "link",
+            "value": ""
+          },
+          {
+            "name": "flag",
+            "value": ""
+          },
+          {
+            "name": "eye",
+            "value": ""
+          },
+          {
+            "name": "sun",
+            "value": ""
+          },
+          {
+            "name": "star-full",
+            "value": ""
+          },
+          {
+            "name": "heart",
+            "value": ""
+          },
+          {
+            "name": "warning",
+            "value": ""
+          },
+          {
+            "name": "question",
+            "value": ""
+          },
+          {
+            "name": "plus",
+            "value": ""
+          },
+          {
+            "name": "minus",
+            "value": ""
+          },
+          {
+            "name": "info",
+            "value": ""
+          },
+          {
+            "name": "cross",
+            "value": ""
+          },
+          {
+            "name": "checkmark",
+            "value": ""
+          },
+          {
+            "name": "arrow-up",
+            "value": ""
+          },
+          {
+            "name": "arrow-right",
+            "value": ""
+          },
+          {
+            "name": "arrow-down",
+            "value": ""
+          },
+          {
+            "name": "arrow-left",
+            "value": ""
+          },
+          {
+            "name": "share",
+            "value": ""
+          },
+          {
+            "name": "new-tab",
+            "value": ""
+          },
+          {
+            "name": "embed",
+            "value": ""
+          },
+          {
+            "name": "embed2",
+            "value": ""
+          },
+          {
+            "name": "terminal",
+            "value": ""
+          },
+          {
+            "name": "share2",
+            "value": ""
+          },
+          {
+            "name": "mail",
+            "value": ""
+          },
+          {
+            "name": "mail2",
+            "value": ""
+          },
+          {
+            "name": "mail3",
+            "value": ""
+          },
+          {
+            "name": "mail4",
+            "value": ""
+          },
+          {
+            "name": "amazon",
+            "value": ""
+          },
+          {
+            "name": "google",
+            "value": ""
+          },
+          {
+            "name": "google2",
+            "value": ""
+          },
+          {
+            "name": "google3",
+            "value": ""
+          },
+          {
+            "name": "google-plus",
+            "value": ""
+          },
+          {
+            "name": "google-plus2",
+            "value": ""
+          },
+          {
+            "name": "google-plus3",
+            "value": ""
+          },
+          {
+            "name": "hangouts",
+            "value": ""
+          },
+          {
+            "name": "google-drive",
+            "value": ""
+          },
+          {
+            "name": "facebook2",
+            "value": ""
+          },
+          {
+            "name": "whatsapp",
+            "value": ""
+          },
+          {
+            "name": "spotify",
+            "value": ""
+          },
+          {
+            "name": "telegram",
+            "value": ""
+          },
+          {
+            "name": "twitter",
+            "value": ""
+          },
+          {
+            "name": "vine",
+            "value": ""
+          },
+          {
+            "name": "vk",
+            "value": ""
+          },
+          {
+            "name": "renren",
+            "value": ""
+          },
+          {
+            "name": "sina-weibo",
+            "value": ""
+          },
+          {
+            "name": "rss",
+            "value": ""
+          },
+          {
+            "name": "rss2",
+            "value": ""
+          },
+          {
+            "name": "youtube2",
+            "value": ""
+          },
+          {
+            "name": "twitch",
+            "value": ""
+          },
+          {
+            "name": "vimeo",
+            "value": ""
+          },
+          {
+            "name": "vimeo2",
+            "value": ""
+          },
+          {
+            "name": "lanyrd",
+            "value": ""
+          },
+          {
+            "name": "flickr",
+            "value": ""
+          },
+          {
+            "name": "flickr2",
+            "value": ""
+          },
+          {
+            "name": "flickr3",
+            "value": ""
+          },
+          {
+            "name": "flickr4",
+            "value": ""
+          },
+          {
+            "name": "dribbble",
+            "value": ""
+          },
+          {
+            "name": "behance",
+            "value": ""
+          },
+          {
+            "name": "behance2",
+            "value": ""
+          },
+          {
+            "name": "deviantart",
+            "value": ""
+          },
+          {
+            "name": "500px",
+            "value": ""
+          },
+          {
+            "name": "steam",
+            "value": ""
+          },
+          {
+            "name": "steam2",
+            "value": ""
+          },
+          {
+            "name": "dropbox",
+            "value": ""
+          },
+          {
+            "name": "onedrive",
+            "value": ""
+          },
+          {
+            "name": "github",
+            "value": ""
+          },
+          {
+            "name": "npm",
+            "value": ""
+          },
+          {
+            "name": "basecamp",
+            "value": ""
+          },
+          {
+            "name": "trello",
+            "value": ""
+          },
+          {
+            "name": "wordpress",
+            "value": ""
+          },
+          {
+            "name": "joomla",
+            "value": ""
+          },
+          {
+            "name": "ello",
+            "value": ""
+          },
+          {
+            "name": "blogger",
+            "value": ""
+          },
+          {
+            "name": "blogger2",
+            "value": ""
+          },
+          {
+            "name": "tumblr",
+            "value": ""
+          },
+          {
+            "name": "tumblr2",
+            "value": ""
+          },
+          {
+            "name": "yahoo",
+            "value": ""
+          },
+          {
+            "name": "yahoo2",
+            "value": ""
+          },
+          {
+            "name": "tux",
+            "value": ""
+          },
+          {
+            "name": "appleinc",
+            "value": ""
+          },
+          {
+            "name": "finder",
+            "value": ""
+          },
+          {
+            "name": "android",
+            "value": ""
+          },
+          {
+            "name": "windows",
+            "value": ""
+          },
+          {
+            "name": "windows8",
+            "value": ""
+          },
+          {
+            "name": "soundcloud",
+            "value": ""
+          },
+          {
+            "name": "soundcloud2",
+            "value": ""
+          },
+          {
+            "name": "skype",
+            "value": ""
+          },
+          {
+            "name": "reddit",
+            "value": ""
+          },
+          {
+            "name": "hackernews",
+            "value": ""
+          },
+          {
+            "name": "wikipedia",
+            "value": ""
+          },
+          {
+            "name": "linkedin",
+            "value": ""
+          },
+          {
+            "name": "lastfm",
+            "value": ""
+          },
+          {
+            "name": "lastfm2",
+            "value": ""
+          },
+          {
+            "name": "delicious",
+            "value": ""
+          },
+          {
+            "name": "stumbleupon",
+            "value": ""
+          },
+          {
+            "name": "stumbleupon2",
+            "value": ""
+          },
+          {
+            "name": "stackoverflow",
+            "value": ""
+          },
+          {
+            "name": "pinterest",
+            "value": ""
+          },
+          {
+            "name": "pinterest2",
+            "value": ""
+          },
+          {
+            "name": "xing",
+            "value": ""
+          },
+          {
+            "name": "xing2",
+            "value": ""
+          },
+          {
+            "name": "flattr",
+            "value": ""
+          },
+          {
+            "name": "foursquare",
+            "value": ""
+          },
+          {
+            "name": "yelp",
+            "value": ""
+          },
+          {
+            "name": "paypal",
+            "value": ""
+          },
+          {
+            "name": "chrome",
+            "value": ""
+          },
+          {
+            "name": "firefox",
+            "value": ""
+          },
+          {
+            "name": "IE",
+            "value": ""
+          },
+          {
+            "name": "edge",
+            "value": ""
+          },
+          {
+            "name": "safari",
+            "value": ""
+          },
+          {
+            "name": "opera",
+            "value": ""
+          },
+          {
+            "name": "file-pdf",
+            "value": ""
+          },
+          {
+            "name": "file-openoffice",
+            "value": ""
+          },
+          {
+            "name": "file-word",
+            "value": ""
+          },
+          {
+            "name": "file-excel",
+            "value": ""
+          },
+          {
+            "name": "libreoffice",
+            "value": ""
+          },
+          {
+            "name": "html-five",
+            "value": ""
+          },
+          {
+            "name": "html-five2",
+            "value": ""
+          },
+          {
+            "name": "css3",
+            "value": ""
+          },
+          {
+            "name": "git",
+            "value": ""
+          },
+          {
+            "name": "codepen",
+            "value": ""
+          },
+          {
+            "name": "svg",
+            "value": ""
+          },
+          {
             "name": "Imagen personalizada (por ejemplo, X)",
             "value": "image"
           }

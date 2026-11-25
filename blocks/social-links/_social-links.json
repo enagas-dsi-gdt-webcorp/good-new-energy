@@ -42,11 +42,686 @@
           "label": "Icono",
           "required": true,
           "options": [
-            { "name": "LinkedIn", "value": "\ueaca" },
-            { "name": "Instagram", "value": "\uea92" },
-            { "name": "Facebook", "value": "\uea90" },
-            { "name": "YouTube", "value": "\uea9d" },
-            { "name": "Imagen personalizada (por ejemplo, X)", "value": "image" }
+            {
+              "name": "LinkedIn",
+              "value": "\ueaca"
+            },
+            {
+              "name": "Instagram",
+              "value": "\uea92"
+            },
+            {
+              "name": "Facebook",
+              "value": "\uea90"
+            },
+            {
+              "name": "YouTube",
+              "value": "\uea9d"
+            },
+            {
+              "name": "home",
+              "value": "\ue900"
+            },
+            {
+              "name": "office",
+              "value": "\ue903"
+            },
+            {
+              "name": "newspaper",
+              "value": "\ue904"
+            },
+            {
+              "name": "pencil",
+              "value": "\ue905"
+            },
+            {
+              "name": "image",
+              "value": "\ue90d"
+            },
+            {
+              "name": "camera",
+              "value": "\ue90f"
+            },
+            {
+              "name": "headphones",
+              "value": "\ue910"
+            },
+            {
+              "name": "play",
+              "value": "\ue912"
+            },
+            {
+              "name": "video-camera",
+              "value": "\ue914"
+            },
+            {
+              "name": "bullhorn",
+              "value": "\ue91a"
+            },
+            {
+              "name": "book",
+              "value": "\ue91f"
+            },
+            {
+              "name": "cart",
+              "value": "\ue93a"
+            },
+            {
+              "name": "calculator",
+              "value": "\ue940"
+            },
+            {
+              "name": "phone",
+              "value": "\ue942"
+            },
+            {
+              "name": "envelop",
+              "value": "\ue945"
+            },
+            {
+              "name": "location",
+              "value": "\ue947"
+            },
+            {
+              "name": "clock",
+              "value": "\ue94e"
+            },
+            {
+              "name": "bell",
+              "value": "\ue951"
+            },
+            {
+              "name": "calendar",
+              "value": "\ue953"
+            },
+            {
+              "name": "printer",
+              "value": "\ue954"
+            },
+            {
+              "name": "mobile",
+              "value": "\ue958"
+            },
+            {
+              "name": "download",
+              "value": "\ue960"
+            },
+            {
+              "name": "upload",
+              "value": "\ue961"
+            },
+            {
+              "name": "database",
+              "value": "\ue964"
+            },
+            {
+              "name": "bubble",
+              "value": "\ue96b"
+            },
+            {
+              "name": "user",
+              "value": "\ue971"
+            },
+            {
+              "name": "users",
+              "value": "\ue972"
+            },
+            {
+              "name": "search",
+              "value": "\ue986"
+            },
+            {
+              "name": "key",
+              "value": "\ue98d"
+            },
+            {
+              "name": "lock",
+              "value": "\ue98f"
+            },
+            {
+              "name": "cog",
+              "value": "\ue994"
+            },
+            {
+              "name": "trophy",
+              "value": "\ue99e"
+            },
+            {
+              "name": "gift",
+              "value": "\ue99f"
+            },
+            {
+              "name": "leaf",
+              "value": "\ue9a4"
+            },
+            {
+              "name": "fire",
+              "value": "\ue9a9"
+            },
+            {
+              "name": "bin",
+              "value": "\ue9ac"
+            },
+            {
+              "name": "briefcase",
+              "value": "\ue9ae"
+            },
+            {
+              "name": "airplane",
+              "value": "\ue9af"
+            },
+            {
+              "name": "truck",
+              "value": "\ue9b0"
+            },
+            {
+              "name": "tree",
+              "value": "\ue9bc"
+            },
+            {
+              "name": "menu",
+              "value": "\ue9bd"
+            },
+            {
+              "name": "cloud",
+              "value": "\ue9c1"
+            },
+            {
+              "name": "earth",
+              "value": "\ue9ca"
+            },
+            {
+              "name": "link",
+              "value": "\ue9cb"
+            },
+            {
+              "name": "flag",
+              "value": "\ue9cc"
+            },
+            {
+              "name": "eye",
+              "value": "\ue9ce"
+            },
+            {
+              "name": "sun",
+              "value": "\ue9d4"
+            },
+            {
+              "name": "star-full",
+              "value": "\ue9d9"
+            },
+            {
+              "name": "heart",
+              "value": "\ue9da"
+            },
+            {
+              "name": "warning",
+              "value": "\uea07"
+            },
+            {
+              "name": "question",
+              "value": "\uea09"
+            },
+            {
+              "name": "plus",
+              "value": "\uea0a"
+            },
+            {
+              "name": "minus",
+              "value": "\uea0b"
+            },
+            {
+              "name": "info",
+              "value": "\uea0c"
+            },
+            {
+              "name": "cross",
+              "value": "\uea0f"
+            },
+            {
+              "name": "checkmark",
+              "value": "\uea10"
+            },
+            {
+              "name": "arrow-up",
+              "value": "\uea32"
+            },
+            {
+              "name": "arrow-right",
+              "value": "\uea34"
+            },
+            {
+              "name": "arrow-down",
+              "value": "\uea36"
+            },
+            {
+              "name": "arrow-left",
+              "value": "\uea38"
+            },
+            {
+              "name": "share",
+              "value": "\uea7d"
+            },
+            {
+              "name": "new-tab",
+              "value": "\uea7e"
+            },
+            {
+              "name": "embed",
+              "value": "\uea7f"
+            },
+            {
+              "name": "embed2",
+              "value": "\uea80"
+            },
+            {
+              "name": "terminal",
+              "value": "\uea81"
+            },
+            {
+              "name": "share2",
+              "value": "\uea82"
+            },
+            {
+              "name": "mail",
+              "value": "\uea83"
+            },
+            {
+              "name": "mail2",
+              "value": "\uea84"
+            },
+            {
+              "name": "mail3",
+              "value": "\uea85"
+            },
+            {
+              "name": "mail4",
+              "value": "\uea86"
+            },
+            {
+              "name": "amazon",
+              "value": "\uea87"
+            },
+            {
+              "name": "google",
+              "value": "\uea88"
+            },
+            {
+              "name": "google2",
+              "value": "\uea89"
+            },
+            {
+              "name": "google3",
+              "value": "\uea8a"
+            },
+            {
+              "name": "google-plus",
+              "value": "\uea8b"
+            },
+            {
+              "name": "google-plus2",
+              "value": "\uea8c"
+            },
+            {
+              "name": "google-plus3",
+              "value": "\uea8d"
+            },
+            {
+              "name": "hangouts",
+              "value": "\uea8e"
+            },
+            {
+              "name": "google-drive",
+              "value": "\uea8f"
+            },
+            {
+              "name": "facebook2",
+              "value": "\uea91"
+            },
+            {
+              "name": "whatsapp",
+              "value": "\uea93"
+            },
+            {
+              "name": "spotify",
+              "value": "\uea94"
+            },
+            {
+              "name": "telegram",
+              "value": "\uea95"
+            },
+            {
+              "name": "twitter",
+              "value": "\uea96"
+            },
+            {
+              "name": "vine",
+              "value": "\uea97"
+            },
+            {
+              "name": "vk",
+              "value": "\uea98"
+            },
+            {
+              "name": "renren",
+              "value": "\uea99"
+            },
+            {
+              "name": "sina-weibo",
+              "value": "\uea9a"
+            },
+            {
+              "name": "rss",
+              "value": "\uea9b"
+            },
+            {
+              "name": "rss2",
+              "value": "\uea9c"
+            },
+            {
+              "name": "youtube2",
+              "value": "\uea9e"
+            },
+            {
+              "name": "twitch",
+              "value": "\uea9f"
+            },
+            {
+              "name": "vimeo",
+              "value": "\ueaa0"
+            },
+            {
+              "name": "vimeo2",
+              "value": "\ueaa1"
+            },
+            {
+              "name": "lanyrd",
+              "value": "\ueaa2"
+            },
+            {
+              "name": "flickr",
+              "value": "\ueaa3"
+            },
+            {
+              "name": "flickr2",
+              "value": "\ueaa4"
+            },
+            {
+              "name": "flickr3",
+              "value": "\ueaa5"
+            },
+            {
+              "name": "flickr4",
+              "value": "\ueaa6"
+            },
+            {
+              "name": "dribbble",
+              "value": "\ueaa7"
+            },
+            {
+              "name": "behance",
+              "value": "\ueaa8"
+            },
+            {
+              "name": "behance2",
+              "value": "\ueaa9"
+            },
+            {
+              "name": "deviantart",
+              "value": "\ueaaa"
+            },
+            {
+              "name": "500px",
+              "value": "\ueaab"
+            },
+            {
+              "name": "steam",
+              "value": "\ueaac"
+            },
+            {
+              "name": "steam2",
+              "value": "\ueaad"
+            },
+            {
+              "name": "dropbox",
+              "value": "\ueaae"
+            },
+            {
+              "name": "onedrive",
+              "value": "\ueaaf"
+            },
+            {
+              "name": "github",
+              "value": "\ueab0"
+            },
+            {
+              "name": "npm",
+              "value": "\ueab1"
+            },
+            {
+              "name": "basecamp",
+              "value": "\ueab2"
+            },
+            {
+              "name": "trello",
+              "value": "\ueab3"
+            },
+            {
+              "name": "wordpress",
+              "value": "\ueab4"
+            },
+            {
+              "name": "joomla",
+              "value": "\ueab5"
+            },
+            {
+              "name": "ello",
+              "value": "\ueab6"
+            },
+            {
+              "name": "blogger",
+              "value": "\ueab7"
+            },
+            {
+              "name": "blogger2",
+              "value": "\ueab8"
+            },
+            {
+              "name": "tumblr",
+              "value": "\ueab9"
+            },
+            {
+              "name": "tumblr2",
+              "value": "\ueaba"
+            },
+            {
+              "name": "yahoo",
+              "value": "\ueabb"
+            },
+            {
+              "name": "yahoo2",
+              "value": "\ueabc"
+            },
+            {
+              "name": "tux",
+              "value": "\ueabd"
+            },
+            {
+              "name": "appleinc",
+              "value": "\ueabe"
+            },
+            {
+              "name": "finder",
+              "value": "\ueabf"
+            },
+            {
+              "name": "android",
+              "value": "\ueac0"
+            },
+            {
+              "name": "windows",
+              "value": "\ueac1"
+            },
+            {
+              "name": "windows8",
+              "value": "\ueac2"
+            },
+            {
+              "name": "soundcloud",
+              "value": "\ueac3"
+            },
+            {
+              "name": "soundcloud2",
+              "value": "\ueac4"
+            },
+            {
+              "name": "skype",
+              "value": "\ueac5"
+            },
+            {
+              "name": "reddit",
+              "value": "\ueac6"
+            },
+            {
+              "name": "hackernews",
+              "value": "\ueac7"
+            },
+            {
+              "name": "wikipedia",
+              "value": "\ueac8"
+            },
+            {
+              "name": "linkedin",
+              "value": "\ueac9"
+            },
+            {
+              "name": "lastfm",
+              "value": "\ueacb"
+            },
+            {
+              "name": "lastfm2",
+              "value": "\ueacc"
+            },
+            {
+              "name": "delicious",
+              "value": "\ueacd"
+            },
+            {
+              "name": "stumbleupon",
+              "value": "\ueace"
+            },
+            {
+              "name": "stumbleupon2",
+              "value": "\ueacf"
+            },
+            {
+              "name": "stackoverflow",
+              "value": "\uead0"
+            },
+            {
+              "name": "pinterest",
+              "value": "\uead1"
+            },
+            {
+              "name": "pinterest2",
+              "value": "\uead2"
+            },
+            {
+              "name": "xing",
+              "value": "\uead3"
+            },
+            {
+              "name": "xing2",
+              "value": "\uead4"
+            },
+            {
+              "name": "flattr",
+              "value": "\uead5"
+            },
+            {
+              "name": "foursquare",
+              "value": "\uead6"
+            },
+            {
+              "name": "yelp",
+              "value": "\uead7"
+            },
+            {
+              "name": "paypal",
+              "value": "\uead8"
+            },
+            {
+              "name": "chrome",
+              "value": "\uead9"
+            },
+            {
+              "name": "firefox",
+              "value": "\ueada"
+            },
+            {
+              "name": "IE",
+              "value": "\ueadb"
+            },
+            {
+              "name": "edge",
+              "value": "\ueadc"
+            },
+            {
+              "name": "safari",
+              "value": "\ueadd"
+            },
+            {
+              "name": "opera",
+              "value": "\ueade"
+            },
+            {
+              "name": "file-pdf",
+              "value": "\ueadf"
+            },
+            {
+              "name": "file-openoffice",
+              "value": "\ueae0"
+            },
+            {
+              "name": "file-word",
+              "value": "\ueae1"
+            },
+            {
+              "name": "file-excel",
+              "value": "\ueae2"
+            },
+            {
+              "name": "libreoffice",
+              "value": "\ueae3"
+            },
+            {
+              "name": "html-five",
+              "value": "\ueae4"
+            },
+            {
+              "name": "html-five2",
+              "value": "\ueae5"
+            },
+            {
+              "name": "css3",
+              "value": "\ueae6"
+            },
+            {
+              "name": "git",
+              "value": "\ueae7"
+            },
+            {
+              "name": "codepen",
+              "value": "\ueae8"
+            },
+            {
+              "name": "svg",
+              "value": "\ueae9"
+            },
+            {
+              "name": "Imagen personalizada (por ejemplo, X)",
+              "value": "image"
+            }
           ]
         },
         {
@@ -61,7 +736,7 @@
           "valueType": "string",
           "name": "linkText",
           "label": "Nombre accesible",
-          "description": "Por ejemplo: Enagás en LinkedIn",
+          "description": "Por ejemplo: Enag\u00e1s en LinkedIn",
           "required": true
         },
         {
