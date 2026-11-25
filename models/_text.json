@@ -3,15 +3,49 @@
     {
       "title": "Text",
       "id": "text",
+      "filter": "text-rte",
       "plugins": {
         "xwalk": {
           "page": {
             "resourceType": "core/franklin/components/text/v1/text",
-            "template": {}
+            "template": {
+              "filter": "text-rte"
+            }
           }
         }
       }
     }
   ],
-  "models": []
+  "models": [],
+  "filters": [
+    {
+      "id": "text-rte",
+      "rte": {
+        "toolbar": {
+          "format": ["bold", "italic", "underline", "strike", "code_inline", "text_color"],
+          "alignment": ["left", "center", "right", "justify"],
+          "direction": ["rtl", "ltr"],
+          "indentation": ["indent", "outdent"],
+          "blocks": ["paragraph", "h1", "h2", "h3", "h4", "h5", "h6", "code_block", "blockquote"],
+          "list": ["bullet_list", "ordered_list"],
+          "insert": ["link", "unlink", "image", "table", "special_characters"],
+          "sr_script": ["superscript", "subscript"],
+          "editor": ["removeformat", "clean_unsupported_tags", "paste_text", "find_and_replace"],
+          "advanced": ["classes"],
+          "sections": [
+            "blocks",
+            "format",
+            "alignment",
+            "direction",
+            "indentation",
+            "list",
+            "insert",
+            "sr_script",
+            "editor",
+            "advanced"
+          ]
+        }
+      }
+    }
+  ]
 }

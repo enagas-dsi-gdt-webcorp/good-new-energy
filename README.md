@@ -97,6 +97,15 @@ izquierdo se puede configurar en píxeles; por defecto es de 300 px en
 escritorio y no se aplica en móvil. El borde utiliza `--category-color` de la
 sección o página; si no hay categoría, utiliza el color del texto.
 
+## Editor de texto
+
+El componente de contenido predeterminado **Text** referencia el filtro
+`text-rte`, definido en `models/_text.json`. Este configura las secciones de
+la barra de herramientas del editor enriquecido. La disponibilidad efectiva
+de cada acción depende de Universal Editor y de la compatibilidad del backend
+de AEM Edge Delivery. El selector de clases requiere opciones y CSS específicos
+para poder mostrar estilos. Tras modificar el filtro, ejecuta `npm run build:json`.
+
 ## Redes sociales
 
 El bloque **Redes sociales** muestra enlaces a redes sociales como iconos
