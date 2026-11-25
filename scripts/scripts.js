@@ -109,6 +109,27 @@ export function decorateButtons(main) {
   });
 }
 
+function unwrapStandaloneImages(main) {
+  main.querySelectorAll('p').forEach((paragraph) => {
+    if (paragraph.textContent.trim() || !paragraph.children.length) return;
+    const onlyImages = [...paragraph.children].every((child) => {
+      if (child.matches('a') && child.children.length !== 1) return false;
+      const image = child.matches('a') ? child.firstElementChild : child;
+      return image?.matches('img') || (image?.matches('picture') && image.querySelector('img'));
+    });
+    if (!onlyImages) return;
+
+    if (paragraph.attributes.length) {
+      const wrapper = document.createElement('div');
+      [...paragraph.attributes].forEach(({ name, value }) => wrapper.setAttribute(name, value));
+      wrapper.append(...paragraph.childNodes);
+      paragraph.replaceWith(wrapper);
+    } else {
+      paragraph.replaceWith(...paragraph.childNodes);
+    }
+  });
+}
+
 /**
  * Decorates the main element.
  * @param {Element} main The main element
@@ -120,6 +141,7 @@ export function decorateMain(main) {
   decorateSections(main);
   decorateBlocks(main);
   decorateButtons(main);
+  unwrapStandaloneImages(main);
 }
 
 /**

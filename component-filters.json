@@ -16,6 +16,7 @@
       "cards",
       "slider",
       "columns",
+      "social-links",
       "fragment"
     ]
   },
@@ -44,6 +45,12 @@
     "id": "slider",
     "components": [
       "slide"
+    ]
+  },
+  {
+    "id": "social-links",
+    "components": [
+      "social-link"
     ]
   }
 ]

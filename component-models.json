@@ -300,5 +300,61 @@
         "description": "Color hexadecimal, por ejemplo #00b5e2."
       }
     ]
+  },
+  {
+    "id": "social-link",
+    "fields": [
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "icon",
+        "label": "Icono",
+        "required": true,
+        "options": [
+          {
+            "name": "LinkedIn",
+            "value": ""
+          },
+          {
+            "name": "Instagram",
+            "value": ""
+          },
+          {
+            "name": "Facebook",
+            "value": ""
+          },
+          {
+            "name": "YouTube",
+            "value": ""
+          },
+          {
+            "name": "Imagen personalizada (por ejemplo, X)",
+            "value": "image"
+          }
+        ]
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "link",
+        "label": "URL",
+        "required": true
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "linkText",
+        "label": "Nombre accesible",
+        "description": "Por ejemplo: Enagás en LinkedIn",
+        "required": true
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "image",
+        "label": "Imagen personalizada",
+        "description": "Solo necesaria si eliges Imagen personalizada."
+      }
+    ]
   }
 ]

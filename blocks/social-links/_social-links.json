@@ -1,0 +1,85 @@
+{
+  "definitions": [
+    {
+      "title": "Redes sociales",
+      "id": "social-links",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block",
+            "template": {
+              "name": "Social Links",
+              "filter": "social-links"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Enlace de red social",
+      "id": "social-link",
+      "plugins": {
+        "xwalk": {
+          "page": {
+            "resourceType": "core/franklin/components/block/v1/block/item",
+            "template": {
+              "name": "Social Link",
+              "model": "social-link"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "models": [
+    {
+      "id": "social-link",
+      "fields": [
+        {
+          "component": "select",
+          "valueType": "string",
+          "name": "icon",
+          "label": "Icono",
+          "required": true,
+          "options": [
+            { "name": "LinkedIn", "value": "\ueaca" },
+            { "name": "Instagram", "value": "\uea92" },
+            { "name": "Facebook", "value": "\uea90" },
+            { "name": "YouTube", "value": "\uea9d" },
+            { "name": "Imagen personalizada (por ejemplo, X)", "value": "image" }
+          ]
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "link",
+          "label": "URL",
+          "required": true
+        },
+        {
+          "component": "text",
+          "valueType": "string",
+          "name": "linkText",
+          "label": "Nombre accesible",
+          "description": "Por ejemplo: Enagás en LinkedIn",
+          "required": true
+        },
+        {
+          "component": "reference",
+          "valueType": "string",
+          "name": "image",
+          "label": "Imagen personalizada",
+          "description": "Solo necesaria si eliges Imagen personalizada."
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "id": "social-links",
+      "components": [
+        "social-link"
+      ]
+    }
+  ]
+}
