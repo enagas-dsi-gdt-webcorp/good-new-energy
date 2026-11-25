@@ -22,8 +22,13 @@
     font-family: verdana;
     font-weight: bold;
     text-transform: uppercase;
+    font-size: var(--body-font-size-s);
 }
 
+.cards > ul > li .cards-card-body h2 {
+    line-height: 1.1;
+    font-size: var(--heading-font-size-l);
+}
 .cards > ul > li .cards-card-body p.copete {
     margin: 0;
     font-family: verdana;
@@ -34,6 +39,7 @@
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    line-height: 1.1;
 }
 
 .cards > ul > li.sostenibles .cards-card-body p.categoria a {
@@ -83,4 +89,47 @@
     height: 100%;
     aspect-ratio: 4 / 3;
     object-fit: cover;
+}
+
+@media (max-width: 768px) {
+    .cards > ul > li {
+        flex-direction: column;
+        border-left: none;
+        border-bottom: 15px;
+    }
+
+    .cards > ul > li.sostenibles,
+    .cards > ul > li.innovadores,
+    .cards > ul > li.comprometidos,
+    .cards > ul > li.proactivos {
+        border-left: none;
+    }
+
+      .cards > ul > li.sostenibles{
+        border-bottom: 15px solid var(--sostenibles-color);
+      }
+    .cards > ul > li.innovadores{
+        border-bottom: 15px solid var(--innovadores-color);
+    }
+    .cards > ul > li.comprometidos{
+        border-bottom: 15px solid var(--comprometidos-color);
+    }
+    .cards > ul > li.proactivos{
+        border-bottom: 15px solid var(--proactivos-color);
+    }
+
+    .cards .cards-card-image{
+        height: auto;
+        min-width: auto;
+        width: 100%;
+        
+    }
+
+    .cards .cards-card-body{
+        padding: 20px;
+        width: auto;
+    }
+    main > .section > div.cards-wrapper{
+        padding: 0 12px;
+    }
 }
