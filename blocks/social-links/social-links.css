@@ -25,10 +25,6 @@
   position: relative;
 }
 
-.social-links .social-links-icon::before{
-  content: "\ueaca";
-}
-
 .social-links .social-links-image img {
   width: 24px;
   height: 24px;
