@@ -90,6 +90,13 @@ la prioridad del CSS: proactivos, comprometidos, sostenibles, innovadores.
 El estilo Highlight deja de ofrecerse, pero su CSS se conserva para el contenido
 existente.
 
+## Quote
+
+Añade un bloque **Quote** a una sección y escribe su subtítulo. El margen
+izquierdo se puede configurar en píxeles; por defecto es de 300 px en
+escritorio y no se aplica en móvil. El borde utiliza `--category-color` de la
+sección o página; si no hay categoría, utiliza el color del texto.
+
 ## Redes sociales
 
 El bloque **Redes sociales** muestra enlaces a redes sociales como iconos

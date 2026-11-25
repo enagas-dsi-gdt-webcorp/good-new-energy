@@ -30,6 +30,16 @@
   height: 100%;
 }
 
+.hero h1{
+  font-family: var(--heading-font-family);
+  font-size: var(--heading-font-size-x-xl);
+  font-weight: 600;
+  text-align: left;
+  padding: 50px 0;
+  padding-left: 25px;
+  border-left: 20px solid var(--category-color);
+}
+
 @media (width >= 900px) {
   .hero {
     padding: 40px 32px;

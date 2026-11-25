@@ -31,6 +31,7 @@
 
     /* sizes */
     --heading-font-size-xxl: 60px;
+    --heading-font-size-x-xl: 40px;
     --heading-font-size-xl: 24px;
     --heading-font-size-l: 18.72px;
     --heading-font-size-m: 16px;
@@ -42,8 +43,6 @@
     --body-font-size-xs: 12.992px;
     --body-font-size-xxs: 12px;
 
-    /* nav height */
-    --nav-height: 64px;
 }
 
 /* fallback fonts */
@@ -68,6 +67,7 @@
 
         /* heading sizes */
         --heading-font-size-xxl: 80px;
+        --heading-font-size-x-xl: 60px;
         --heading-font-size-xl: 38px;
         --heading-font-size-l: 30px;
         --heading-font-size-m: 22px;
@@ -108,10 +108,6 @@ main .section.articulos-comprometidos {
 body.keyword-proactivos,
 main .section.articulos-proactivos {
     --category-color: var(--proactivos-color);
-}
-
-header {
-    height: var(--nav-height);
 }
 
 header .header,
@@ -397,4 +393,39 @@ main .section.highlight {
     background-color: var(--light-color);
     margin: 0;
     padding: 40px 0;
+}
+
+.articulos-innovadores .default-content-wrapper p:first-child,
+.articulos-innovadores .default-content-wrapper p:first-child a,
+.articulos-innovadores .default-content-wrapper h2 {
+    color: var(--category-color);
+    font-family: var(--body-font-family);
+}
+
+.articulos-innovadores .default-content-wrapper p:first-child a{
+    text-decoration: underline;
+}
+
+.articulos-innovadores .default-content-wrapper p:first-child a:hover{
+    text-decoration: none;
+}
+
+.articulos-innovadores .default-content-wrapper p:first-child,
+.articulos-innovadores .default-content-wrapper p:first-child a{
+    font-size: var(--body-font-size-s);
+}
+.articulos-innovadores .default-content-wrapper h2 {
+    margin: 30px 0 15px 0;
+    font-size: var(--heading-font-size-m);
+    font-weight: 700;
+}
+
+.articulos-innovadores .default-content-wrapper p:not(:first-child) a {
+  color: var(--proactivos-color);
+  text-decoration: underline;
+}
+
+.articulos-innovadores .default-content-wrapper p:not(:first-child) a:hover {
+    color: var(--text-color);
+    text-decoration: none;
 }
