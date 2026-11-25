@@ -74,6 +74,22 @@ Con movimiento reducido, no se reproduce automáticamente.
 Las portadas importadas después de este cambio utilizan el bloque Slider; las
 ya importadas deben volver a importarse o actualizarse manualmente en AEM.
 
+## Estilos de categorías
+
+Las secciones permiten elegir los estilos **Artículos innovadores**,
+**Artículos sostenibles**, **Artículos comprometidos** y **Artículos proactivos**.
+Las keywords de página con esos nombres de categoría también añaden clases
+`keyword-innovadores`, `keyword-sostenibles`, `keyword-comprometidos` o
+`keyword-proactivos` al `body`. Se reconocen sin distinguir mayúsculas y
+separadas por comas.
+
+Estas clases definen `--category-color` con los colores existentes, sin cambiar
+la apariencia por sí solas. El estilo de sección prevalece sobre el de página.
+Si se seleccionan varias categorías, se añaden todas las clases y el color sigue
+la prioridad del CSS: proactivos, comprometidos, sostenibles, innovadores.
+El estilo Highlight deja de ofrecerse, pero su CSS se conserva para el contenido
+existente.
+
 ## Redes sociales
 
 El bloque **Redes sociales** muestra enlaces a redes sociales como iconos

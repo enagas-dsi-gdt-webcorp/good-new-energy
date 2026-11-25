@@ -158,8 +158,20 @@
         "label": "Style",
         "options": [
           {
-            "name": "Highlight",
-            "value": "highlight"
+            "name": "Artículos innovadores",
+            "value": "articulos-innovadores"
+          },
+          {
+            "name": "Artículos sostenibles",
+            "value": "articulos-sostenibles"
+          },
+          {
+            "name": "Artículos comprometidos",
+            "value": "articulos-comprometidos"
+          },
+          {
+            "name": "Artículos proactivos",
+            "value": "articulos-proactivos"
           }
         ]
       }

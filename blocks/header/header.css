@@ -31,6 +31,30 @@ header nav[aria-expanded='true'] {
   min-height: 100dvh;
 }
 
+ header nav .nav-sections .default-content-wrapper > ul > li{
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  border-bottom-width: 10px;
+  border-bottom-style: solid;
+  width: fit-content;
+}
+
+ header nav .nav-sections .default-content-wrapper > ul > li:has([title="SOSTENIBLES"]){
+    border-bottom-color: var(--sostenibles-color);
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li:has([title="INNOVADORES"]){
+    border-bottom-color: var(--innovadores-color);
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li:has([title="COMPROMETIDOS"]){
+    border-bottom-color: var(--comprometidos-color);
+  }
+
+  header nav .nav-sections .default-content-wrapper > ul > li:has([title="PROACTIVOS"]){
+    border-bottom-color: var(--proactivos-color);
+  }
+
 @media (width >= 900px) {
   header .nav-wrapper {
     position: relative;

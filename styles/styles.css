@@ -90,6 +90,26 @@ body.appear {
     display: block;
 }
 
+body.keyword-innovadores,
+main .section.articulos-innovadores {
+    --category-color: var(--innovadores-color);
+}
+
+body.keyword-sostenibles,
+main .section.articulos-sostenibles {
+    --category-color: var(--sostenibles-color);
+}
+
+body.keyword-comprometidos,
+main .section.articulos-comprometidos {
+    --category-color: var(--comprometidos-color);
+}
+
+body.keyword-proactivos,
+main .section.articulos-proactivos {
+    --category-color: var(--proactivos-color);
+}
+
 header {
     height: var(--nav-height);
 }

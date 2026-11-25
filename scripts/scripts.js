@@ -1,6 +1,7 @@
 import {
   loadHeader,
   loadFooter,
+  getMetadata,
   decorateIcons,
   decorateSections,
   decorateBlocks,
@@ -151,6 +152,11 @@ export function decorateMain(main) {
 async function loadEager(doc) {
   document.documentElement.lang = 'en';
   decorateTemplateAndTheme();
+  const categories = ['innovadores', 'sostenibles', 'comprometidos', 'proactivos'];
+  getMetadata('keywords', doc).split(',').forEach((keyword) => {
+    const category = keyword.trim().toLowerCase();
+    if (categories.includes(category)) doc.body.classList.add(`keyword-${category}`);
+  });
   const main = doc.querySelector('main');
   if (main) {
     decorateMain(main);
