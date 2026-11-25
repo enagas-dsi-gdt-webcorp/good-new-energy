@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/App</title>
+    <defs>
+        <polygon id="path-1" points="0 32 32 32 32 0 0 0"></polygon>
+    </defs>
+    <g id="Iconos/Generales/App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9">
+            <path d="M18,32 L3,32 C1.346,32 0,30.654 0,29 L0,3 C0,1.346 1.346,0 3,0 L21,0 C22.654,0 24,1.346 24,3 L24,11 L22,11 L22,3 C22,2.449 21.552,2 21,2 L3,2 C2.448,2 2,2.449 2,3 L2,29 C2,29.551 2.448,30 3,30 L18,30 L18,32 Z" id="Fill-1" fill="#63666A"></path>
+            <path d="M13,27 C13,27.552 12.553,28 12,28 C11.447,28 11,27.552 11,27 C11,26.448 11.447,26 12,26 C12.553,26 13,26.448 13,27" id="Fill-3" fill="#63666A"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-6"></g>
+            <polygon id="Fill-5" fill="#63666A" mask="url(#mask-2)" points="4 6 20 6 20 4 4 4"></polygon>
+            <path d="M27,27 C27,27.552 26.553,28 26,28 C25.447,28 25,27.552 25,27 C25,26.448 25.447,26 26,26 C26.553,26 27,26.448 27,27" id="Fill-7" fill="#63666A" mask="url(#mask-2)"></path>
+            <path d="M22,30 L30,30 L30,15 L22,15 L22,30 Z M30,32 L22,32 C20.897,32 20,31.103 20,30 L20,15 C20,13.897 20.897,13 22,13 L30,13 C31.103,13 32,13.897 32,15 L32,30 C32,31.103 31.103,32 30,32 L30,32 Z" id="Fill-8" fill="#63666A" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

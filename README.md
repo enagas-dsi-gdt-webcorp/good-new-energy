@@ -111,5 +111,12 @@ para poder mostrar estilos. Tras modificar el filtro, ejecuta `npm run build:jso
 El bloque **Redes sociales** muestra enlaces a redes sociales como iconos
 clicables. Puede añadirse en una sección o dentro de una celda del bloque
 Columns (por ejemplo, en el footer). Añade un **Enlace de red social** por cada
-red y elige su imagen en AEM, la URL y el nombre accesible (lo leen los lectores
-de pantalla). Los iconos se muestran a 24 px.
+red y selecciona su icono, URL y nombre accesible. Los enlaces se abren en una
+pestaña nueva. El selector contiene los 127 iconos de `fonts/selection.json`,
+incluido `Twitter-1` para X; utiliza la fuente `fonts/icomoon.woff`. Las imágenes
+de enlaces existentes siguen funcionando hasta que se seleccione un icono.
+
+Al actualizar la fuente con IcoMoon, conserva los códigos Unicode existentes,
+reemplaza el WOFF y `selection.json`, y actualiza las opciones del campo `icon`
+en `blocks/social-links/_social-links.json`. Después ejecuta `npm run build:json`.
+Comprueba también las licencias de los iconos que añadas.

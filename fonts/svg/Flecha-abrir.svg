@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Flecha-abrir</title>
+    <g id="Iconos/Generales/Flecha-abrir" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" fill="#63666A">
+            <polygon id="Fill-1" points="0 32 2 32 2 0 0 0"></polygon>
+            <polygon id="Fill-2" points="9.293 21.707 3.586 16 9.293 10.293 10.707 11.707 6.414 16 10.707 20.293"></polygon>
+            <polygon id="Fill-3" points="5 17 32 17 32 15 5 15"></polygon>
+        </g>
+    </g>
+</svg>

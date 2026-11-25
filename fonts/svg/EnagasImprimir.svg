@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="39px" viewBox="0 0 34 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B992363E-86B2-4E62-B58B-37DB470EB957</title>
+    <defs>
+        <linearGradient x1="135.480291%" y1="50%" x2="-28.1471946%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="505.529785%" y1="50%" x2="-1294.90967%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Enagas-WebPública-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ENAGAS-WebPública-Desktop-IndicadoresClave-v2" transform="translate(-1119.000000, -1980.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="3020"></rect>
+            <g id="Iconos/Generales/Archivos/Gráficos/Imagen-Copy-6" transform="translate(1119.000000, 1980.000000)">
+                <g id="Group-14-Copy" transform="translate(7.157895, 29.023256)" stroke="url(#linearGradient-1)" stroke-width="1.26">
+                    <g id="Group-7" transform="translate(0.000000, 0.000163)">
+                        <polyline id="Path-2" points="0 0 0 9.06976744 19.6842105 9.06976744 19.6842105 0"></polyline>
+                    </g>
+                </g>
+                <path d="M23.4421053,33.3767442 L23.4421053,34.6465116 L10.5578947,34.6465116 L10.5578947,33.3767442 L23.4421053,33.3767442 Z M23.4421053,29.7488372 L23.4421053,31.0186047 L10.5578947,31.0186047 L10.5578947,29.7488372 L23.4421053,29.7488372 Z M27.4684211,0.272093023 L27.4674211,8.43409302 L33.7315789,8.43488372 L33.7315789,29.6581395 L26.2157895,29.6581395 L26.2157895,22.4023256 L7.78421053,22.4023256 L7.78421053,29.6581395 L0.268421053,29.6581395 L0.268421053,8.43488372 L6.53142105,8.43409302 L6.53157895,0.272093023 L27.4684211,0.272093023 Z M32.4789474,9.70465116 L1.52105263,9.70465116 L1.52105263,28.3883721 L6.53157895,28.3883721 L6.53142105,22.402093 L3.84736842,22.4023256 L3.84736842,21.1325581 L30.1526316,21.1325581 L30.1526316,22.4023256 L27.4674211,22.402093 L27.4684211,28.3883721 L32.4789474,28.3883721 L32.4789474,9.70465116 Z M23.4421053,26.1209302 L23.4421053,27.3906977 L10.5578947,27.3906977 L10.5578947,26.1209302 L23.4421053,26.1209302 Z M26.2157895,1.54186047 L7.78421053,1.54186047 L7.78421053,8.43488372 L26.2157895,8.43488372 L26.2157895,1.54186047 Z" id="Combined-Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                <ellipse id="Oval" fill="url(#linearGradient-3)" cx="25.0526316" cy="13.6048144" rx="1" ry="1"></ellipse>
+                <ellipse id="Oval-Copy" fill="url(#linearGradient-3)" cx="28.6315789" cy="13.6048144" rx="1" ry="1"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Menu</title>
+    <g id="Iconos/Generales/Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7" transform="translate(0.000000, 7.000000)" fill="#63666A">
+            <path d="M1.25,8.4 C0.559625,8.4 0,8.8477 0,9.4 C0,9.9523 0.559625,10.4 1.25,10.4 L30.75,10.4 C31.440375,10.4 32,9.9523 32,9.4 C32,8.8477 31.440375,8.4 30.75,8.4 L1.25,8.4 Z" id="Fill-1"></path>
+            <path d="M0.9765625,0 C0.437207031,0 0,0.4477 0,1 C0,1.5523 0.437207031,2 0.9765625,2 L31.0234375,2 C31.562793,2 32,1.5523 32,1 C32,0.4477 31.562793,0 31.0234375,0 L0.9765625,0 Z" id="Fill-3"></path>
+            <path d="M0.9765625,16.8 C0.437207031,16.8 0,17.2477 0,17.8 C0,18.3523 0.437207031,18.8 0.9765625,18.8 L19.0234375,18.8 C19.562793,18.8 20,18.3523 20,17.8 C20,17.2477 19.562793,16.8 19.0234375,16.8 L0.9765625,16.8 Z" id="Fill-5"></path>
+        </g>
+    </g>
+</svg>

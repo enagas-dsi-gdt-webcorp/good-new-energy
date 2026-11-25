@@ -26,6 +26,13 @@
   object-fit: contain;
 }
 
+.social-links .social-links-glyph {
+  font-family: icomoon, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1;
+}
+
 .social-links .social-links-label {
   position: absolute;
   width: 1px;

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Email</title>
+    <g id="Iconos/Generales/Email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(0.000000, 5.000000)" fill="#63666A">
+            <path d="M0,22 L32,22 L32,0 L0,0 L0,22 Z M2,20 L30,20 L30,2 L2,2 L2,20 Z" id="Fill-1"></path>
+            <polygon id="Fill-2" points="16.0002 12.6769 1.6552 0.2439 0.3452 1.7559 16.0002 15.3229 31.6552 1.7559 30.3452 0.2439"></polygon>
+            <polygon id="Fill-3" points="0.2934 20.2927 1.7074 21.7067 12.7074 10.7067 11.2934 9.2927"></polygon>
+            <polygon id="Fill-4" points="19.2933 10.7068 30.2933 21.7068 31.7073 20.2928 20.7073 9.2928"></polygon>
+        </g>
+    </g>
+</svg>

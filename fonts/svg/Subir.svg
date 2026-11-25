@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Subir</title>
+    <defs>
+        <polygon id="path-1" points="0 32.4141 32 32.4141 32 0.0001 0 0.0001"></polygon>
+    </defs>
+    <g id="Iconos/Generales/Subir" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <path d="M29,32.4141 L3,32.4141 C1.346,32.4141 0,31.0681 0,29.4141 L0,24.4141 L2,24.4141 L2,29.4141 C2,29.9661 2.448,30.4141 3,30.4141 L29,30.4141 C29.552,30.4141 30,29.9661 30,29.4141 L30,24.4141 L32,24.4141 L32,29.4141 C32,31.0681 30.654,32.4141 29,32.4141" id="Fill-1" fill="#63666A"></path>
+            <polygon id="Fill-3" fill="#63666A" points="20.293 7.1211 16 2.8281 11.707 7.1211 10.293 5.7071 16 0.0001 21.707 5.7071"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-6"></g>
+            <polygon id="Fill-5" fill="#63666A" mask="url(#mask-2)" points="15 28.4141 17 28.4141 17 1.4141 15 1.4141"></polygon>
+        </g>
+    </g>
+</svg>

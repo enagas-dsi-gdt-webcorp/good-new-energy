@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Contactos</title>
+    <defs>
+        <polygon id="path-1" points="0 32 32 32 32 0 0 0"></polygon>
+    </defs>
+    <g id="Iconos/Generales/Contactos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-17">
+            <path d="M2,32 L32.001,32 L32.001,0 L2,0 L2,32 Z M4,30 L30,30 L30,2 L4,2 L4,30 Z" id="Fill-1" fill="#63666A"></path>
+            <polygon id="Fill-2" fill="#63666A" points="8 31 10 31 10 1 8 1"></polygon>
+            <polygon id="Fill-3" fill="#63666A" points="0 8 6 8 6 6 0 6"></polygon>
+            <polygon id="Fill-4" fill="#63666A" points="0 14 6 14 6 12 0 12"></polygon>
+            <polygon id="Fill-5" fill="#63666A" points="0 20 6 20 6 17.999 0 17.999"></polygon>
+            <polygon id="Fill-6" fill="#63666A" points="0 27 6 27 6 25 0 25"></polygon>
+            <g id="Group-16">
+                <path d="M20,15 C19.449,15 19,15.448 19,16 C19,16.552 19.449,17 20,17 C20.551,17 21,16.552 21,16 C21,15.448 20.551,15 20,15 M20,19 C18.346,19 17,17.654 17,16 C17,14.346 18.346,13 20,13 C21.654,13 23,14.346 23,16 C23,17.654 21.654,19 20,19" id="Fill-7" fill="#63666A"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <polygon id="Fill-9" fill="#63666A" mask="url(#mask-2)" points="21 19 23 19 23 16 21 16"></polygon>
+                <path d="M24,22 C22.346,22 21,20.654 21,19 L23,19 C23,19.552 23.449,20 24,20 C24.551,20 25,19.552 25,19 L27,19 C27,20.654 25.654,22 24,22" id="Fill-11" fill="#63666A" mask="url(#mask-2)"></path>
+                <polygon id="Fill-12" fill="#63666A" mask="url(#mask-2)" points="25 19 27 19 27 16 25 16"></polygon>
+                <path d="M27,16 L25,16 C25,13.243 22.757,11 20,11 L20,9 C23.86,9 27,12.141 27,16" id="Fill-13" fill="#63666A" mask="url(#mask-2)"></path>
+                <path d="M15,16 L13,16 C13,12.141 16.14,9 20,9 L20,11 C17.243,11 15,13.243 15,16" id="Fill-14" fill="#63666A" mask="url(#mask-2)"></path>
+                <path d="M20,23 C16.14,23 13,19.859 13,16 L15,16 C15,18.757 17.243,21 20,21 L20,23 Z" id="Fill-15" fill="#63666A" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

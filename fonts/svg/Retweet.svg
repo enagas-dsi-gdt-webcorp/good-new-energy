@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Retweet</title>
+    <defs>
+        <polygon id="path-1" points="0 28 32 28 32 0.586 0 0.586"></polygon>
+    </defs>
+    <g id="Iconos/Generales/Retweet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(0.000000, 2.000000)">
+            <polygon id="Fill-1" fill="#657786" points="11.7072 1 10.2932 2.414 14.5862 6.707 10.2932 11 11.7072 12.414 17.4142 6.707"></polygon>
+            <polygon id="Fill-2" fill="#657786" points="5 7.707 16 7.707 16 5.707 5 5.707"></polygon>
+            <g id="Group-13" transform="translate(0.000000, 0.414000)">
+                <path d="M2,14.293 L0,14.293 L0,10.293 C0,7.536 2.243,5.293 5,5.293 L5,7.293 C3.346,7.293 2,8.639 2,10.293 L2,14.293 Z" id="Fill-3" fill="#657786"></path>
+                <path d="M32,14.293 L30,14.293 L30,10.293 C30,8.639 28.654,7.293 27,7.293 L20,7.293 L20,5.293 L27,5.293 C29.757,5.293 32,7.536 32,10.293 L32,14.293 Z" id="Fill-5" fill="#657786"></path>
+                <polygon id="Fill-7" fill="#657786" points="20.293 28 14.586 22.293 20.293 16.586 21.707 18 17.414 22.293 21.707 26.586"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <polygon id="Fill-9" fill="#657786" mask="url(#mask-2)" points="16 23.293 27 23.293 27 21.293 16 21.293"></polygon>
+                <path d="M27,23.293 L27,21.293 C28.654,21.293 30,19.947 30,18.293 L30,14.293 L32,14.293 L32,18.293 C32,21.05 29.757,23.293 27,23.293" id="Fill-11" fill="#657786" mask="url(#mask-2)"></path>
+                <path d="M12,23.293 L5,23.293 C2.243,23.293 0,21.05 0,18.293 L0,14.293 L2,14.293 L2,18.293 C2,19.947 3.346,21.293 5,21.293 L12,21.293 L12,23.293 Z" id="Fill-12" fill="#657786" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

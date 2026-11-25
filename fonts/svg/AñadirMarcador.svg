@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/AñadirMarcador</title>
+    <g id="Iconos/Generales/AñadirMarcador" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(4.000000, 0.000000)" fill="#63666A">
+            <path d="M0,-0.0004 L0,31.9996 L12,23.9996 L24,31.9996 L24,-0.0004 L0,-0.0004 Z M2,2.0006 L22,2.0006 L22,28.2626 L13.109,22.3356 L12,21.5956 L10.891,22.3356 L2,28.2626 L2,2.0006 Z" id="Fill-1"></path>
+            <polygon id="Fill-2" points="8 14 16 14 16 12 8 12"></polygon>
+            <polygon id="Fill-3" points="11 17 13 17 13 9 11 9"></polygon>
+        </g>
+    </g>
+</svg>

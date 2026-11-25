@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Descargar</title>
+    <defs>
+        <polygon id="path-1" points="0 32 32 32 32 0 0 0"></polygon>
+    </defs>
+    <g id="Iconos/Generales/Descargar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <path d="M29,32 L3,32 C1.346,32 0,30.654 0,29 L0,24 L2,24 L2,29 C2,29.552 2.449,30 3,30 L29,30 C29.551,30 30,29.552 30,29 L30,24 L32,24 L32,29 C32,30.654 30.654,32 29,32" id="Fill-1" fill="#63666A"></path>
+            <polygon id="Fill-3" fill="#63666A" points="16 28.4141 10.293 22.7071 11.707 21.2931 16 25.5861 20.293 21.2931 21.707 22.7071"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-6"></g>
+            <polygon id="Fill-5" fill="#63666A" mask="url(#mask-2)" points="15 27 17 27 17 0 15 0"></polygon>
+        </g>
+    </g>
+</svg>

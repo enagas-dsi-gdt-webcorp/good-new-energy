@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="Home.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs10">
+    <linearGradient
+       x1="82.267855"
+       y1="41.133928"
+       x2="0"
+       y2="41.133928"
+       id="linearGradient-1"
+       gradientTransform="scale(1.7139137,0.58345997)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#798F00"
+         offset="100%"
+         id="stop35" />
+      <stop
+         stop-color="#007AAE"
+         offset="0%"
+         id="stop37" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.942835"
+     inkscape:cx="27.058154"
+     inkscape:cy="14.51833"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="2391"
+     inkscape:window-y="709"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Botones/Principal/Icono" />
+  <title
+     id="title2">Iconos/Generales/Buscar</title>
+  <g
+     id="Botones/Principal/Icono"
+     transform="matrix(1.2066698,0,0,1.2066698,-28.568966,-86.854422)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <rect
+       id="Background"
+       x="0"
+       y="12"
+       width="141"
+       height="24" />
+    <g
+       id="Iconos/Generales/Telefono"
+       transform="matrix(1.0870913,0,0,1.0870913,30.733893,7.1064053)"
+       fill="#ffffff"
+       style="fill:#000000">
+      <path
+         d="m 5.8478483,60.208013 v 1.480842 h 9.6254707 c 0.407972,0 0.740421,0.331708 0.740421,0.74042 v 19.250941 c 0,0.408713 -0.332449,0.740421 -0.740421,0.740421 H -3.7776217 c -0.407972,0 -0.740421,-0.331708 -0.740421,-0.740421 v -8.144628 h -1.480842 v 8.144628 c 0,1.224657 0.996607,2.221263 2.221263,2.221263 H 15.473319 c 1.224656,0 2.221262,-0.996606 2.221262,-2.221263 V 62.429275 c 0,-1.224656 -0.996606,-2.221262 -2.221262,-2.221262 z M 1.4053233,72.05482 v 2.655149 l -5.616832,-5.616832 5.616832,-5.616833 v 2.655149 l 2.961683,-7.4e-5 c 4.0826808,0 7.4042087,3.321528 7.4042087,7.404209 l -7.7e-5,2.497364 C 10.178019,73.636927 7.4538623,72.054746 4.3670063,72.054746 Z m 10.3619257,8.640949 0.004,0.244027 h 1.480837 v -7.404208 c 0,-4.899365 -3.9856847,-8.88505 -8.8850497,-8.88505 v 7.4e-5 h -1.480841 v -4.749059 l -9.191584,9.191584 9.191584,9.191584 v -4.749059 h 1.480841 c 4.0010272,-7.4e-5 7.2710427,3.189921 7.4002427,7.160107 z"
+         id="Combined-Shape"
+         style="fill:#000000;fill-opacity:1" />
+    </g>
+  </g>
+  <metadata
+     id="metadata9642">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Iconos/Generales/Buscar</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

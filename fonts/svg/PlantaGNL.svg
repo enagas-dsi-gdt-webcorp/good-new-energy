@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/PlantaGNL</title>
+    <g id="Iconos/Generales/PlantaGNL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(0.000000, -1.000000)" fill="#92BCCE">
+            <path d="M16,0.9831 C24.5005044,0.9831 31.4531399,7.61271485 31.9692678,15.9833058 L32,15.9836 L32,32.9836 L0,32.9836 L0,15.9836 L0.0306997713,15.9838317 C0.546568903,7.61299254 7.49931762,0.9831 16,0.9831 Z M30,17.983 L2,17.983 L2,30.983 L30,30.983 L30,17.983 Z M16,2.9831 C8.6043911,2.9831 2.54774427,8.7182514 2.03514154,15.9834722 L29.9648634,15.983542 C29.4595359,8.82092883 23.5656584,3.14545443 16.3126343,2.98652219 L16,2.9831 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

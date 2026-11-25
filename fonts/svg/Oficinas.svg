@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Oficinas</title>
+    <g id="Iconos/Generales/Oficinas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,30 L32,32 L0,32 L0,30 L32,30 Z M25,0 L25,10 L26,10 C27.654,10 29,11.346 29,13 L29,28 L27,28 L27,13 C27,12.449 26.551,12 26,12 L25,12 L25,28 L23,28 L23,7 L9,7 L9,28 L7,28 L7,12 L6,12 C5.449,12 5,12.449 5,13 L5,28 L3,28 L3,13 C3,11.346 4.346,10 6,10 L7,10 L7,0 L25,0 Z M13,22 L13,24 L11,24 L11,22 L13,22 Z M21,18 L21,24 L15,24 L15,18 L21,18 Z M19,20 L17,20 L17,22 L19,22 L19,20 Z M13,18 L13,20 L11,20 L11,18 L13,18 Z M21,10.166 L21,16.166 L15,16.166 L15,10.166 L21,10.166 Z M13,14 L13,16 L11,16 L11,14 L13,14 Z M19,12.166 L17,12.166 L17,14.166 L19,14.166 L19,12.166 Z M13,10 L13,12 L11,12 L11,10 L13,10 Z M23,2 L9,2 L9,5 L23,5 L23,2 Z" id="Combined-Shape" fill="#DFE8EC"></path>
+    </g>
+</svg>

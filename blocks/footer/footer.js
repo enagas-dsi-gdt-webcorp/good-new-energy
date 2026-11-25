@@ -1,5 +1,6 @@
 import { getMetadata } from '../../scripts/aem.js';
 import { loadFragment } from '../fragment/fragment.js';
+import { isIconGlyph } from '../social-links/social-links.js';
 
 function getImage(element) {
   if (element.matches('picture, img')) return element;
@@ -16,13 +17,14 @@ function getLink(element) {
     ? link : null;
 }
 
-// the delivery flattens a nested Social Links block into image + link paragraphs
 function decorateIconLinks(footer) {
   footer.querySelectorAll('.columns > div > div').forEach((column) => {
     [...column.children].forEach((element) => {
       const image = getImage(element);
+      const glyph = element.matches('p') && element.children.length === 0
+        ? element.textContent.trim() : '';
       const linkParagraph = element.nextElementSibling;
-      const link = image && getLink(linkParagraph);
+      const link = (image || isIconGlyph(glyph)) && getLink(linkParagraph);
       if (!link || !['http:', 'https:'].includes(link.protocol)) return;
 
       const text = link.textContent.trim();
@@ -35,7 +37,15 @@ function decorateIconLinks(footer) {
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       element.before(link);
-      link.append(image, label);
+      if (image) {
+        link.append(image, label);
+      } else {
+        const icon = document.createElement('span');
+        icon.className = 'footer-icon-glyph';
+        icon.setAttribute('aria-hidden', 'true');
+        icon.textContent = glyph;
+        link.append(icon, label);
+      }
       if (element !== image) element.remove();
       linkParagraph.remove();
     });

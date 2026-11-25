@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Comentario</title>
+    <defs>
+        <polygon id="path-1" points="0 32 32 32 32 0 0 0"></polygon>
+    </defs>
+    <g id="Iconos/Generales/Comentario" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <path d="M16,0 C7.163,0 0,7.164 0,16 C0,24.836 7.163,32 16,32 C19.349,32 22.454,30.968 25.023,29.209 L32,32 L29.209,25.023 C30.968,22.454 32,19.349 32,16 C32,7.164 24.837,0 16,0 M16,2 C23.72,2 30,8.28 30,16 C30,18.831 29.156,21.561 27.559,23.894 L26.956,24.775 L27.353,25.766 L28.41,28.41 L25.767,27.353 L24.774,26.956 L23.894,27.559 C21.561,29.156 18.831,30 16,30 C8.28,30 2,23.72 2,16 C2,8.28 8.28,2 16,2" id="Fill-1" fill="#63666A"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Fill-3" fill="#63666A" mask="url(#mask-2)" points="15 17 17 17 17 15 15 15"></polygon>
+            <polygon id="Fill-5" fill="#63666A" mask="url(#mask-2)" points="19 17 21 17 21 15 19 15"></polygon>
+            <polygon id="Fill-6" fill="#63666A" mask="url(#mask-2)" points="11 17 13 17 13 15 11 15"></polygon>
+        </g>
+    </g>
+</svg>

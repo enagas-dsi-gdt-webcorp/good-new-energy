@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.7312498mm"
+   height="8.7312498mm"
+   viewBox="0 0 8.7312498 8.7312498"
+   version="1.1"
+   id="svg4077"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="BtnListadoLinea4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4079"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="16.206792"
+     inkscape:cx="-9.7798502"
+     inkscape:cy="28.228905"
+     inkscape:window-width="2400"
+     inkscape:window-height="1261"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Iconos/Generales/BtnListado-Copy" />
+  <defs
+     id="defs4074" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-129.35826,-86.876913)">
+    <g
+       id="BtnListado-Hover"
+       transform="matrix(0.26458333,0,0,0.26458333,112.55722,84.892538)">
+      <g
+         id="Iconos/Generales/BtnListado-Copy"
+         transform="translate(64,8)">
+        <path
+           style="color:#000000;fill:#000000;-inkscape-stroke:none"
+           d="m 16,-0.5 c -9.0932068,0 -16.5,7.4067932 -16.5,16.5 0,9.093207 7.4067932,16.5 16.5,16.5 2.078914,0 4.071335,-0.386025 5.90625,-1.091797 C 28.097284,29.026918 32.5,23.014293 32.5,16 32.5,6.9067932 25.093207,-0.5 16,-0.5 Z m 0,1 c 8.550776,0 15.5,6.9492245 15.5,15.5 0,6.595874 -4.139943,12.238659 -9.953125,14.474609 C 19.823949,31.137306 17.954902,31.5 16,31.5 7.4492245,31.5 0.5,24.550776 0.5,16 0.5,7.4492245 7.4492245,0.5 16,0.5 Z"
+           id="Fill-2" />
+        <g
+           id="Group-9"
+           transform="translate(7,9)"
+           fill="#ffffff">
+          <polygon
+             id="Fill-1"
+             points="0,0 0,1.5 1.5,1.5 1.5,0 "
+             style="fill:#000000" />
+          <polygon
+             id="polygon48"
+             points="3,0 3,1.5 18.00075,1.5 18.00075,0 "
+             style="fill:#000000" />
+          <polygon
+             id="Fill-3"
+             points="0,9 0,10.5 1.5,10.5 1.5,9 "
+             style="fill:#000000" />
+          <polygon
+             id="Fill-4"
+             points="3,9 3,10.5 18.00075,10.5 18.00075,9 "
+             style="fill:#000000" />
+          <polygon
+             id="Fill-5"
+             points="0,4.49925 0,6 1.5,6 1.5,4.49925 "
+             style="fill:#000000" />
+          <polygon
+             id="Fill-6"
+             points="3,4.5 3,6 18,6 18,4.5 "
+             style="fill:#000000" />
+          <polygon
+             id="Fill-7"
+             points="0,13.5 0,15 1.5,15 1.5,13.5 "
+             style="fill:#000000" />
+          <polygon
+             id="Fill-8"
+             points="3,13.5 3,15 18,15 18,13.5 "
+             style="fill:#000000" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="32px" viewBox="0 0 26 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Calculadora</title>
+    <g id="Guía-de-estilos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Iconografía" transform="translate(-181.000000, -4678.000000)" fill="#63666A">
+            <g id="Group" transform="translate(178.000000, 4678.000000)">
+                <g id="Group-22" transform="translate(3.000000, 0.000000)">
+                    <path d="M0,32 L26,32 L26,0 L0,0 L0,32 Z M2,30 L24.001,30 L24.001,2 L2,2 L2,30 Z" id="Fill-1"></path>
+                    <path d="M6,10 L20,10 L20,6 L6,6 L6,10 Z M4,12 L22,12 L22,4 L4,4 L4,12 Z" id="Fill-2"></path>
+                    <polygon id="Fill-8" points="12 20 14 20 14 18.125 12 18.125"></polygon>
+                    <polygon id="Fill-9" points="20 20 22 20 22 18 20 18"></polygon>
+                    <polygon id="Fill-10" points="16 20 18 20 18 18 16 18"></polygon>
+                    <polygon id="Fill-11" points="8 20 10 20 10 18 8 18"></polygon>
+                    <polygon id="Fill-12" points="4 20 6 20 6 18 4 18"></polygon>
+                    <polygon id="Fill-13" points="12 24 14 24 14 22.125 12 22.125"></polygon>
+                    <polygon id="Fill-14" points="16 24 18 24 18 22 16 22"></polygon>
+                    <polygon id="Fill-15" points="8 24 10 24 10 22 8 22"></polygon>
+                    <polygon id="Fill-16" points="4 24 6 24 6 22 4 22"></polygon>
+                    <polygon id="Fill-17" points="12 28 14 28 14 26.125 12 26.125"></polygon>
+                    <polygon id="Fill-18" points="20 28 22 28 22 22 20 22"></polygon>
+                    <polygon id="Fill-19" points="16 28 18 28 18 26 16 26"></polygon>
+                    <polygon id="Fill-20" points="8 28 10 28 10 26 8 26"></polygon>
+                    <polygon id="Fill-21" points="4 28 6 28 6 26 4 26"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

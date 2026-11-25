@@ -340,7 +340,524 @@
         "valueType": "string",
         "name": "image",
         "label": "Imagen",
-        "required": true
+        "hidden": true
+      },
+      {
+        "component": "select",
+        "valueType": "string",
+        "name": "icon",
+        "label": "Icono",
+        "required": true,
+        "options": [
+          {
+            "name": "AadirMarcador",
+            "value": ""
+          },
+          {
+            "name": "accreditation",
+            "value": ""
+          },
+          {
+            "name": "Active",
+            "value": ""
+          },
+          {
+            "name": "Actualizar",
+            "value": ""
+          },
+          {
+            "name": "ActualizarContrasea",
+            "value": ""
+          },
+          {
+            "name": "acuerdos",
+            "value": ""
+          },
+          {
+            "name": "Adjuntar",
+            "value": ""
+          },
+          {
+            "name": "App",
+            "value": ""
+          },
+          {
+            "name": "arrow-up",
+            "value": ""
+          },
+          {
+            "name": "Avisos",
+            "value": ""
+          },
+          {
+            "name": "Bajar",
+            "value": ""
+          },
+          {
+            "name": "bargraph",
+            "value": ""
+          },
+          {
+            "name": "Barras",
+            "value": ""
+          },
+          {
+            "name": "Biometano",
+            "value": ""
+          },
+          {
+            "name": "Borrar",
+            "value": ""
+          },
+          {
+            "name": "BtnCuadricula",
+            "value": ""
+          },
+          {
+            "name": "BtnExcelHover2",
+            "value": ""
+          },
+          {
+            "name": "BtnGrafico",
+            "value": ""
+          },
+          {
+            "name": "BtnLineasHover",
+            "value": ""
+          },
+          {
+            "name": "BtnListadoLinea",
+            "value": ""
+          },
+          {
+            "name": "BtnMapa-Hover",
+            "value": ""
+          },
+          {
+            "name": "Buscar",
+            "value": ""
+          },
+          {
+            "name": "Calculadora",
+            "value": ""
+          },
+          {
+            "name": "Calendario",
+            "value": ""
+          },
+          {
+            "name": "Cerrar",
+            "value": ""
+          },
+          {
+            "name": "Certificado",
+            "value": ""
+          },
+          {
+            "name": "Chat",
+            "value": ""
+          },
+          {
+            "name": "Check-ok",
+            "value": ""
+          },
+          {
+            "name": "checkmark",
+            "value": ""
+          },
+          {
+            "name": "checkmark1",
+            "value": ""
+          },
+          {
+            "name": "Comentario",
+            "value": ""
+          },
+          {
+            "name": "ComentariosTwitter",
+            "value": ""
+          },
+          {
+            "name": "Compartir",
+            "value": ""
+          },
+          {
+            "name": "Contactos",
+            "value": ""
+          },
+          {
+            "name": "ContraseaNoVer",
+            "value": ""
+          },
+          {
+            "name": "ContraseaSegura",
+            "value": ""
+          },
+          {
+            "name": "ContraseaVer",
+            "value": ""
+          },
+          {
+            "name": "Copiar",
+            "value": ""
+          },
+          {
+            "name": "Demanda",
+            "value": ""
+          },
+          {
+            "name": "Descargar",
+            "value": ""
+          },
+          {
+            "name": "Desktop",
+            "value": ""
+          },
+          {
+            "name": "Desplazar",
+            "value": ""
+          },
+          {
+            "name": "edit",
+            "value": ""
+          },
+          {
+            "name": "Editar",
+            "value": ""
+          },
+          {
+            "name": "ejemplos",
+            "value": ""
+          },
+          {
+            "name": "Electrica",
+            "value": ""
+          },
+          {
+            "name": "Email",
+            "value": ""
+          },
+          {
+            "name": "EmailAbierto",
+            "value": ""
+          },
+          {
+            "name": "Enviar",
+            "value": ""
+          },
+          {
+            "name": "Estaciones",
+            "value": ""
+          },
+          {
+            "name": "estado",
+            "value": ""
+          },
+          {
+            "name": "Excel1",
+            "value": ""
+          },
+          {
+            "name": "Excel2",
+            "value": ""
+          },
+          {
+            "name": "external-link",
+            "value": ""
+          },
+          {
+            "name": "Facebook-1",
+            "value": ""
+          },
+          {
+            "name": "Favorito",
+            "value": ""
+          },
+          {
+            "name": "Filtrar",
+            "value": ""
+          },
+          {
+            "name": "Flecha-abrir",
+            "value": ""
+          },
+          {
+            "name": "Flecha-izqDrcha",
+            "value": ""
+          },
+          {
+            "name": "Flecha-mas",
+            "value": ""
+          },
+          {
+            "name": "Flecha-menos",
+            "value": ""
+          },
+          {
+            "name": "Flecha-pagFinal",
+            "value": ""
+          },
+          {
+            "name": "Flecha-pagFinal-hover",
+            "value": ""
+          },
+          {
+            "name": "Flecha-plegarDesplegar",
+            "value": ""
+          },
+          {
+            "name": "Flecha-plegarDesplegar2",
+            "value": ""
+          },
+          {
+            "name": "Flecha-plegarDesplegar2-hover",
+            "value": ""
+          },
+          {
+            "name": "flecha-up",
+            "value": ""
+          },
+          {
+            "name": "Gas",
+            "value": ""
+          },
+          {
+            "name": "Gasoducto",
+            "value": ""
+          },
+          {
+            "name": "Guardar",
+            "value": ""
+          },
+          {
+            "name": "Home",
+            "value": ""
+          },
+          {
+            "name": "ico-eliminar",
+            "value": ""
+          },
+          {
+            "name": "ico-linkedin",
+            "value": ""
+          },
+          {
+            "name": "Imagen",
+            "value": ""
+          },
+          {
+            "name": "img-fine",
+            "value": ""
+          },
+          {
+            "name": "Imprimir",
+            "value": ""
+          },
+          {
+            "name": "Info-circle",
+            "value": ""
+          },
+          {
+            "name": "Informacion",
+            "value": ""
+          },
+          {
+            "name": "instagram",
+            "value": ""
+          },
+          {
+            "name": "Interconexiones",
+            "value": ""
+          },
+          {
+            "name": "Ir",
+            "value": ""
+          },
+          {
+            "name": "IrHover",
+            "value": ""
+          },
+          {
+            "name": "linegraph",
+            "value": ""
+          },
+          {
+            "name": "link",
+            "value": ""
+          },
+          {
+            "name": "Listado",
+            "value": ""
+          },
+          {
+            "name": "Llamar",
+            "value": ""
+          },
+          {
+            "name": "location",
+            "value": ""
+          },
+          {
+            "name": "Menu",
+            "value": ""
+          },
+          {
+            "name": "next-month-btn",
+            "value": ""
+          },
+          {
+            "name": "next-year-btn",
+            "value": ""
+          },
+          {
+            "name": "Oficinas",
+            "value": ""
+          },
+          {
+            "name": "Paginas",
+            "value": ""
+          },
+          {
+            "name": "PDF",
+            "value": ""
+          },
+          {
+            "name": "PDF-100",
+            "value": ""
+          },
+          {
+            "name": "PDF2",
+            "value": ""
+          },
+          {
+            "name": "PDF212",
+            "value": ""
+          },
+          {
+            "name": "piechart",
+            "value": ""
+          },
+          {
+            "name": "PlantaGNL",
+            "value": ""
+          },
+          {
+            "name": "play3",
+            "value": ""
+          },
+          {
+            "name": "PPT",
+            "value": ""
+          },
+          {
+            "name": "Preguntas",
+            "value": ""
+          },
+          {
+            "name": "Responsive",
+            "value": ""
+          },
+          {
+            "name": "Retweet",
+            "value": ""
+          },
+          {
+            "name": "settings",
+            "value": ""
+          },
+          {
+            "name": "Shape",
+            "value": ""
+          },
+          {
+            "name": "Subir",
+            "value": ""
+          },
+          {
+            "name": "Subterraneo",
+            "value": ""
+          },
+          {
+            "name": "Tabla",
+            "value": ""
+          },
+          {
+            "name": "tasks",
+            "value": ""
+          },
+          {
+            "name": "Telefono",
+            "value": ""
+          },
+          {
+            "name": "Twitter-1",
+            "value": ""
+          },
+          {
+            "name": "Ubicacion",
+            "value": ""
+          },
+          {
+            "name": "uniE926",
+            "value": ""
+          },
+          {
+            "name": "uniE927",
+            "value": ""
+          },
+          {
+            "name": "uniE944",
+            "value": ""
+          },
+          {
+            "name": "uniE945",
+            "value": ""
+          },
+          {
+            "name": "uniE946",
+            "value": ""
+          },
+          {
+            "name": "uniE947",
+            "value": ""
+          },
+          {
+            "name": "uniE948",
+            "value": ""
+          },
+          {
+            "name": "uniE949",
+            "value": ""
+          },
+          {
+            "name": "Usuario",
+            "value": ""
+          },
+          {
+            "name": "Video2",
+            "value": ""
+          },
+          {
+            "name": "Web",
+            "value": ""
+          },
+          {
+            "name": "Word",
+            "value": ""
+          },
+          {
+            "name": "WSDL",
+            "value": ""
+          },
+          {
+            "name": "XSD",
+            "value": ""
+          },
+          {
+            "name": "zip",
+            "value": ""
+          }
+        ]
       },
       {
         "component": "text",

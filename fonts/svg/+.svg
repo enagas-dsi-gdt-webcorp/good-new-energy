@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/+</title>
+    <g id="Iconos/Generales/+" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" fill="#007AAE">
+            <path d="M16,0 C24.822,0 32,7.178 32,16 C32,24.822 24.822,32 16,32 C7.178,32 0,24.822 0,16 C0,7.178 7.178,0 16,0 Z" id="Fill-2"></path>
+        </g>
+        <g id="+" transform="translate(11.000000, 11.000000)" fill="#FFFFFF">
+            <polygon id="Fill-3" points="0 6 10 6 10 4 0 4"></polygon>
+            <polygon id="Fill-5" points="4 10 6 10 6 0 4 0"></polygon>
+        </g>
+    </g>
+</svg>

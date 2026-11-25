@@ -1,10 +1,16 @@
+export function isIconGlyph(value) {
+  return [...value].length === 1 && value.codePointAt(0) >= 0xe000
+    && value.codePointAt(0) <= 0xf8ff;
+}
+
 export default function decorate(block) {
   [...block.children].forEach((row) => {
     const picture = row.querySelector('picture, img');
+    const iconValue = [...row.children].map((cell) => cell.textContent.trim()).find(isIconGlyph);
     const link = row.querySelector('a[href]');
-    if (!picture || !link || !['http:', 'https:'].includes(link.protocol)) {
+    if ((!iconValue && !picture) || !link || !['http:', 'https:'].includes(link.protocol)) {
       // eslint-disable-next-line no-console
-      console.warn('Social Links: configura una imagen y una URL HTTP(S).', row);
+      console.warn('Social Links: configura un icono y una URL HTTP(S).', row);
       return;
     }
 
@@ -15,7 +21,12 @@ export default function decorate(block) {
     const icon = document.createElement('span');
     icon.className = 'social-links-icon';
     icon.setAttribute('aria-hidden', 'true');
-    icon.append(picture);
+    if (iconValue) {
+      icon.classList.add('social-links-glyph');
+      icon.textContent = iconValue;
+    } else {
+      icon.append(picture);
+    }
 
     link.textContent = '';
     link.removeAttribute('title');

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EF3A74B7-A19E-450E-8279-1A4ED0F135DB</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#798F00" offset="0%"></stop>
+            <stop stop-color="#007AAE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Enagas-WebPública-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ENAGAS-WebPública-Desktop-ResultadosBúsqueda" transform="translate(-215.000000, -1527.000000)" fill-rule="nonzero">
+            <g id="Componentes/ResultadoBusquedaImg" transform="translate(150.000000, 1491.000000)">
+                <g id="Iconos/Generales/Archivos/PDF" transform="translate(65.000000, 36.000000)">
+                    <g id="Group-13" transform="translate(0.000000, 8.000000)">
+                        <path d="M19.0838044,0.340089281 C8.73183462,0.340089281 0.339948937,8.73197496 0.339948937,19.0839447 C0.339948937,29.4359145 8.73183462,37.8278002 19.0838044,37.8278002 C29.4356196,37.8278002 37.8276599,29.4358352 37.8276599,19.0839447 C37.8276599,8.73205428 29.4356196,0.340089281 19.0838044,0.340089281 Z M19.0838044,1.80200428 C28.6282292,1.80200428 36.3657449,9.53945057 36.3657449,19.0839447 C36.3657449,28.6284389 28.6282292,36.3658852 19.0838044,36.3658852 C9.53922798,36.3658852 1.80186394,28.6285212 1.80186394,19.0839447 C1.80186394,9.53936832 9.53922798,1.80200428 19.0838044,1.80200428 Z" id="Stroke-1" fill="url(#linearGradient-1)"></path>
+                        <path d="M5.74291785,6.69050802 C9.02211487,8.68286688 13.8600481,9.86454737 19.0838512,9.86454737 C24.0922379,9.86454737 28.7468364,8.77821833 32.0136777,6.93133761 L32.3708966,6.72301535 L33.1245582,7.97568836 C29.6015834,10.0952605 24.5289728,11.3264624 19.0838512,11.3264624 C13.802546,11.3264624 8.87251555,10.1683574 5.36736428,8.16585431 L4.98382128,7.93989502 L5.74291785,6.69050802 Z" id="Stroke-3" fill="url(#linearGradient-2)"></path>
+                        <path d="M19.083781,27.2485178 C24.1583919,27.2485178 28.911853,28.3173207 32.39191,30.1832274 L32.7877496,30.4020463 L32.0638545,31.6721532 C28.7876646,29.8048947 24.1125469,28.7104328 19.083781,28.7104328 C14.2141679,28.7104328 9.67638213,29.7369669 6.42028764,31.4964952 L6.05032646,31.702754 L5.32138618,30.4355359 C8.83488134,28.4144724 13.7841227,27.2485178 19.083781,27.2485178 Z" id="Stroke-5" fill="url(#linearGradient-3)"></path>
+                        <path d="M19.0839213,0.340089281 C13.0742961,0.340089281 8.41451482,8.78567774 8.41451482,19.0839447 C8.41451482,29.3822117 13.0742961,37.8278002 19.0839213,37.8278002 C25.0933145,37.8278002 29.7528601,29.3822271 29.7528601,19.0839447 C29.7528601,8.78566238 25.0933145,0.340089281 19.0839213,0.340089281 Z M19.0839213,1.80200428 C24.0517522,1.80200428 28.2909451,9.48567487 28.2909451,19.0839447 C28.2909451,28.6822146 24.0517522,36.3658852 19.0839213,36.3658852 C14.1158379,36.3658852 9.87642982,28.6821994 9.87642982,19.0839447 C9.87642982,9.48569013 14.1158379,1.80200428 19.0839213,1.80200428 Z" id="Stroke-7" fill="url(#linearGradient-4)"></path>
+                        <polygon id="Stroke-9" fill="url(#linearGradient-5)" points="19.8148087 1.07111695 19.8148087 37.0969129 18.3528937 37.0969129 18.3528937 1.07111695"></polygon>
+                        <polygon id="Stroke-11" fill="url(#linearGradient-6)" points="37.0967024 18.3529872 37.0967024 19.8149022 1.07090644 19.8149022 1.07090644 18.3529872"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

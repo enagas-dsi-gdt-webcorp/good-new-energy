@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Paginas</title>
+    <g id="Iconos/Generales/Paginas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7" fill="#63666A">
+            <polygon id="Fill-1" points="31 10 22 10 22 1 24 1 24 8 31 8"></polygon>
+            <polygon id="Fill-2" points="12 10 18 10 18 8 12 8"></polygon>
+            <polygon id="Fill-3" points="12 14 26 14 26 12 12 12"></polygon>
+            <polygon id="Fill-4" points="12 18 26 18 26 16 12 16"></polygon>
+            <path d="M6.0003,-0.0004 L6.0003,25.9996 L32.0003,25.9996 L32.0003,8.5856 L23.4143,-0.0004 L6.0003,-0.0004 Z M8.0003,2.0006 L22.5853,2.0006 L29.9993,9.4146 L29.9993,23.9996 L8.0003,23.9996 L8.0003,2.0006 Z" id="Fill-5"></path>
+            <polygon id="Fill-6" points="0 5.9999 0 31.9999 26 31.9999 26 24.9999 24 24.9999 24 29.9999 2 29.9999 2 7.9999 7 7.9999 7 5.9999"></polygon>
+        </g>
+    </g>
+</svg>

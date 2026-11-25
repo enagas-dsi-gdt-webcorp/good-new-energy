@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Gasoducto</title>
+    <g id="Iconos/Generales/Gasoducto" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" fill="#92BCCE">
+            <path d="M0,23.875 L26,23.875 L26,1.875 L0,1.875 L0,23.875 Z M2,21.875 L24.001,21.875 L24.001,3.875 L2,3.875 L2,21.875 Z" id="Fill-1"></path>
+            <polygon id="Fill-2" points="26.6616 -0.0003 0.3926 20.0807 1.6076 21.6697 27.3386 2.0007 32.0006 2.0007 32.0006 -0.0003"></polygon>
+            <polygon id="Fill-3" points="0 31.875 2 31.875 2 22.875 0 22.875"></polygon>
+            <polygon id="Fill-4" points="22 18.875 20 18.875 20 16.875 15 16.875 15 18.875 13 18.875 13 14.875 22 14.875"></polygon>
+        </g>
+    </g>
+</svg>

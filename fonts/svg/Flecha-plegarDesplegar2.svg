@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Flecha-plegarDesplegar2</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.474510 0 0 0 0 0.560784 0 0 0 0 0.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Iconos/Generales/Flecha-plegarDesplegar2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g filter="url(#filter-1)" id="Group-4">
+            <g>
+                <polygon id="Fill-1" fill="#63666A" points="14.207 21.707 12.793 20.293 17.086 16 12.793 11.707 14.207 10.293 19.914 16"></polygon>
+                <path d="M16,2 C8.28,2 2,8.28 2,16 C2,23.72 8.28,30 16,30 C23.72,30 30,23.72 30,16 C30,8.28 23.72,2 16,2 M16,32 C7.178,32 0,24.822 0,16 C0,7.178 7.178,0 16,0 C24.822,0 32,7.178 32,16 C32,24.822 24.822,32 16,32" id="Fill-2" fill="#63666A"></path>
+            </g>
+        </g>
+    </g>
+</svg>

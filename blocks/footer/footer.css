@@ -107,6 +107,14 @@ footer .footer .columns .footer-icon-link img {
     object-fit: contain;
 }
 
+footer .footer .footer-icon-glyph {
+    color: var(--sostenibles-color);
+    font-family: icomoon, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 1;
+}
+
 footer .footer .footer-icon-label {
     position: absolute;
     width: 1px;

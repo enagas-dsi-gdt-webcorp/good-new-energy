@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Borrar</title>
+    <g id="Iconos/Generales/Borrar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(4.000000, 0.000000)" fill="#63666A">
+            <path d="M0,6.9998 L0,10.0008 L2,29.0528 L2,31.9998 L22,31.9998 L22,29.0528 L23.995,10.1048 L24,6.9998 L0,6.9998 Z M4,29.0008 L2,9.9468 L2,8.9998 L22,8.9998 L22,9.9468 L20.005,28.8958 L20,29.9998 L4,29.9998 L4,29.0008 Z" id="Fill-1"></path>
+            <polygon id="Fill-2" points="6.0068 28.1167 4.0068 11.1167 5.9928 10.8837 7.9928 27.8837"></polygon>
+            <polygon id="Fill-3" points="17.9932 28.1167 16.0072 27.8837 18.0072 10.8837 19.9932 11.1167"></polygon>
+            <polygon id="Fill-4" points="0 5 24 5 24 3 0 3"></polygon>
+            <polygon id="Fill-5" points="8.0001 -0.0004 8.0001 4.0006 10.0001 4.0006 10.0001 2.0006 14.0001 2.0006 14.0001 4.0006 16.0001 4.0006 16.0001 -0.0004"></polygon>
+        </g>
+    </g>
+</svg>

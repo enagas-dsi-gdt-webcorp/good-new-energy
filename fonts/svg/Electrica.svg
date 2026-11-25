@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Electrica</title>
+    <defs>
+        <polygon id="path-1" points="0 32 28 32 28 0.04 0 0.04"></polygon>
+    </defs>
+    <g id="Iconos/Generales/Electrica" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-21" transform="translate(2.000000, -1.000000)">
+            <polygon id="Fill-1" fill="#63666A" points="13 4.0004 15.001 4.0004 15.001 0.9994 13 0.9994"></polygon>
+            <g id="Group-20" transform="translate(0.000000, 0.960400)">
+                <path d="M12,6.4537 L12,10.2687 L11.334,10.5057 C8.144,11.6347 6,14.6627 6,18.0397 C6,22.4507 9.589,26.0397 14,26.0397 C18.411,26.0397 22,22.4507 22,18.0397 C22,14.6627 19.856,11.6347 16.666,10.5057 L16,10.2687 L16,6.4537 L14,4.4537 L12,6.4537 Z M14,28.0397 C8.486,28.0397 4,23.5537 4,18.0397 C4,14.0567 6.384,10.4627 10,8.8827 L10,5.6257 L14,1.6257 L18,5.6257 L18,8.8827 C21.616,10.4627 24,14.0567 24,18.0397 C24,23.5537 19.514,28.0397 14,28.0397 L14,28.0397 Z" id="Fill-2" fill="#63666A"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <polygon id="Fill-4" fill="#63666A" mask="url(#mask-2)" points="11 10.04 17 10.04 17 8.04 11 8.04"></polygon>
+                <polygon id="Fill-6" fill="#63666A" mask="url(#mask-2)" points="2.3818 14.875 0.5028 14.191 1.1868 12.312 3.0658 12.996"></polygon>
+                <polygon id="Fill-7" fill="#63666A" mask="url(#mask-2)" points="26.8135 23.7671 24.9345 23.0831 25.6185 21.2041 27.4975 21.8881"></polygon>
+                <polygon id="Fill-8" fill="#63666A" mask="url(#mask-2)" points="4.165 11.0923 2.633 9.8063 3.918 8.2743 5.45 9.5603"></polygon>
+                <polygon id="Fill-9" fill="#63666A" mask="url(#mask-2)" points="24.082 27.8047 22.55 26.5187 23.835 24.9867 25.367 26.2727"></polygon>
+                <polygon id="Fill-10" fill="#63666A" mask="url(#mask-2)" points="20.1338 30.6641 19.1338 28.9321 20.8658 27.9321 21.8658 29.6641"></polygon>
+                <polygon id="Fill-11" fill="#63666A" mask="url(#mask-2)" points="15.4463 32 15.0993 30.031 17.0683 29.684 17.4153 31.653"></polygon>
+                <polygon id="Fill-12" fill="#63666A" mask="url(#mask-2)" points="12.5537 32 10.5847 31.653 10.9317 29.684 12.9007 30.031"></polygon>
+                <polygon id="Fill-13" fill="#63666A" mask="url(#mask-2)" points="7.8662 30.6641 6.1342 29.6641 7.1342 27.9321 8.8662 28.9321"></polygon>
+                <polygon id="Fill-14" fill="#63666A" mask="url(#mask-2)" points="23.835 11.0923 22.55 9.5603 24.082 8.2743 25.367 9.8063"></polygon>
+                <polygon id="Fill-15" fill="#63666A" mask="url(#mask-2)" points="3.918 27.8047 2.633 26.2727 4.165 24.9867 5.45 26.5187"></polygon>
+                <polygon id="Fill-16" fill="#63666A" mask="url(#mask-2)" points="25.6182 14.875 24.9342 12.996 26.8132 12.312 27.4972 14.191"></polygon>
+                <polygon id="Fill-17" fill="#63666A" mask="url(#mask-2)" points="1.1865 23.7671 0.5025 21.8881 2.3815 21.2041 3.0655 23.0831"></polygon>
+                <polygon id="Fill-18" fill="#63666A" mask="url(#mask-2)" points="26 19.04 28 19.04 28 17.04 26 17.04"></polygon>
+                <polygon id="Fill-19" fill="#63666A" mask="url(#mask-2)" points="0 19.04 2 19.04 2 17.04 0 17.04"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

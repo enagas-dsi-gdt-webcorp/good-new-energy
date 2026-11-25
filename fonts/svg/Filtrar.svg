@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Filtrar</title>
+    <g id="Iconos/Generales/Filtrar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-14" transform="translate(16.000000, 16.000000) rotate(90.000000) translate(-16.000000, -16.000000) translate(2.000000, 0.000000)" fill="#63666A">
+            <polygon id="Fill-1" points="23 18 25 18 25 0 23 0"></polygon>
+            <polygon id="Fill-2" points="13 4 15.001 4 15.001 -0.001 13 -0.001"></polygon>
+            <polygon id="Fill-3" points="23 32 25 32 25 23 23 23"></polygon>
+            <polygon id="Fill-4" points="13 32 15.001 32 15.001 9 13 9"></polygon>
+            <polygon id="Fill-5" points="3 22 5.001 22 5.001 -0.001 3 -0.001"></polygon>
+            <polygon id="Fill-6" points="3 32 5.001 32 5.001 27 3 27"></polygon>
+            <g id="Group-13" transform="translate(0.000000, 3.000000)">
+                <path d="M24,15 C22.897,15 22,15.897 22,17 C22,18.103 22.897,19 24,19 C25.103,19 26,18.103 26,17 C26,15.897 25.103,15 24,15 M24,21 C21.794,21 20,19.206 20,17 C20,14.794 21.794,13 24,13 C26.206,13 28,14.794 28,17 C28,19.206 26.206,21 24,21" id="Fill-7"></path>
+                <path d="M14,2 C12.897,2 12,2.897 12,4 C12,5.103 12.897,6 14,6 C15.103,6 16,5.103 16,4 C16,2.897 15.103,2 14,2 M14,8 C11.794,8 10,6.206 10,4 C10,1.794 11.794,0 14,0 C16.206,0 18,1.794 18,4 C18,6.206 16.206,8 14,8" id="Fill-9"></path>
+                <path d="M4,19 C2.897,19 2,19.897 2,21 C2,22.103 2.897,23 4,23 C5.103,23 6,22.103 6,21 C6,19.897 5.103,19 4,19 M4,25 C1.794,25 0,23.206 0,21 C0,18.794 1.794,17 4,17 C6.206,17 8,18.794 8,21 C8,23.206 6.206,25 4,25" id="Fill-11"></path>
+            </g>
+        </g>
+    </g>
+</svg>

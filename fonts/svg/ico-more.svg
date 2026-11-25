@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EBE72C81-073A-4CB4-93A3-53A6A351AD32</title>
+    <g id="Enagas-WebPública-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ENAGAS-WebPública-Desktop-ResultadosBúsqueda" transform="translate(-150.000000, -597.000000)" fill="#798F00">
+            <g id="Botones/EnlaceFlecha" transform="translate(150.000000, 597.000000)">
+                <path d="M12,9.00000637 L9,9.00000637 L9,12.0000064 L7,12.0000064 L7,9.00000637 L4,9.00000637 L4,7.00000637 L7,7.00000637 L7,4.00000637 L9,4.00000637 L9,7.00000637 L12,7.00000637 L12,9.00000637 Z M8,6.375e-06 C3.58884375,6.375e-06 0,3.58885012 0,8.00000637 C0,12.4111314 3.58884375,16.0000064 8,16.0000064 C12.411125,16.0000064 16,12.4111314 16,8.00000637 C16,3.58885012 12.4110937,6.375e-06 8,6.375e-06 L8,6.375e-06 Z" id="ico-add"></path>
+            </g>
+        </g>
+    </g>
+</svg>

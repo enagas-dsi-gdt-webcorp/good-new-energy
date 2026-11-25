@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Subterraneo</title>
+    <g id="Iconos/Generales/Subterraneo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" fill="#92BCCE" fill-rule="nonzero">
+            <path d="M32,0 L32,32 L0,32 L0,0 L32,0 Z M16,16.9995 C8.60432778,16.9995 2.54764055,22.7347496 2.03512838,30.0000588 L29.9648634,29.999942 C29.4595359,22.8373288 23.5656584,17.1618544 16.3126343,17.0029222 L16,16.9995 Z M30,2 L2,2 L1.99962794,23.2483778 C4.72902675,18.3291249 9.97581639,14.9995 16,14.9995 C22.0245346,14.9995 27.2715847,18.3295129 30.0008491,23.2492377 L30,2 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

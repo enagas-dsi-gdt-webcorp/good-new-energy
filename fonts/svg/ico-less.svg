@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="ico-less.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="53.875"
+     inkscape:cx="7.9907193"
+     inkscape:cy="7.9907193"
+     inkscape:window-width="2400"
+     inkscape:window-height="1321"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Enagas-WebPública-UI" />
+  <title
+     id="title21">EBE72C81-073A-4CB4-93A3-53A6A351AD32</title>
+  <g
+     id="Enagas-WebPública-UI"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="ENAGAS-WebPública-Desktop-ResultadosBúsqueda"
+       transform="translate(-150.000000, -597.000000)"
+       fill="#798F00">
+      <g
+         id="Botones/EnlaceFlecha"
+         transform="translate(150.000000, 597.000000)">
+        <path
+           d="M 12,9.0000064 H 4 v -2 h 8 z M 8,6.375e-6 c -4.4111562,0 -8,3.588843725 -8,8.000000025 0,4.4111246 3.5888438,7.9999996 8,7.9999996 4.411125,0 8,-3.588875 8,-7.9999996 C 16,3.5888501 12.411094,6.375e-6 8,6.375e-6 Z"
+           id="ico-add"
+           sodipodi:nodetypes="cccccsssss" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata972">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>EBE72C81-073A-4CB4-93A3-53A6A351AD32</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

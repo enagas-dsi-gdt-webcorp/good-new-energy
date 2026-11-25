@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconos/Generales/Certificado</title>
+    <g id="Iconos/Generales/Certificado" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" fill="#63666A">
+            <polygon id="Fill-1" points="26.0001 -0.0004 26.0001 2.0006 30.0001 2.0006 30.0001 30.0006 2.0001 30.0006 2.0001 2.0006 14.0001 2.0006 14.0001 -0.0004 0.0001 -0.0004 0.0001 31.9996 32.0001 31.9996 32.0001 -0.0004"></polygon>
+            <path d="M16.0002,-0.0004 L16.0002,10.8686 L20.0002,8.2016 L24.0002,10.8686 L24.0002,-0.0004 L16.0002,-0.0004 Z M18.0002,2.0006 L21.9992,2.0006 L21.9992,7.1316 L20.0002,5.7986 L18.0002,7.1316 L18.0002,2.0006 Z" id="Fill-2"></path>
+            <polygon id="Fill-3" points="8 16 24 16 24 14 8 14"></polygon>
+            <polygon id="Fill-4" points="8 20 24 20 24 18 8 18"></polygon>
+            <polygon id="Fill-5" points="8 24 16 24 16 22 8 22"></polygon>
+        </g>
+    </g>
+</svg>
